@@ -1,0 +1,36 @@
+﻿@model IList<FoodTruckCerrado.Models.Evento>
+<section class="container">
+    <div class=row>
+        @if (WebSecurity.IsAuthenticated && Roles.IsUserInRole(WebSecurity.CurrentUserName, "admin"))
+        {
+            <div>
+                @Html.ActionLink("Add Eventos", "Form", null, new { @class = "btn btn-primary" })
+            </div>
+        }
+        
+
+        @foreach (var evento in Model)
+        {
+            <div class="col-sm-6 col-md-4 col-lg-3">
+                <figure class="thumbnail">
+
+                    <img class="img-circle" src="@evento.FotoCapa" alt="Foto do FoodTruck">
+
+                    <figcaption class="caption">
+                        <h2>@Html.DisplayFor(m => evento.Data)</h2>
+                        <h3>@Html.ActionLink(evento.Nome, "Visualiza", new { id = evento.Id })</h3>
+                        <p>@Html.DisplayFor(m => evento.Descricao) </p>
+                      @if (WebSecurity.IsAuthenticated && Roles.IsUserInRole(WebSecurity.CurrentUserName, "admin"))
+                      {
+                        <p>
+                            @Html.ActionLink("Editar", "Atualizar", new { id = evento.Id }, new { @class = "btn btn-primary" })
+                            @Html.ActionLink("Deltar", "Deleta", new { id = evento.Id }, new { @class = "btn btn-danger" })
+                        </p>
+                      }
+                        
+                    </figcaption>
+                </figure>
+            </div>
+        }
+    </div >
+</section>

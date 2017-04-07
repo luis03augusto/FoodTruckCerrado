@@ -1,0 +1,16 @@
+﻿@model IList<FoodTruckCerrado.Models.FotosEventos>
+
+<h1>Album de Foto do evento</h1>
+@if (WebSecurity.IsAuthenticated && Roles.IsUserInRole(WebSecurity.CurrentUserName, "admin"))
+{
+@Html.ActionLink("Add Foto", "Form", new { idEvento = Model[0].EventoId })
+}
+
+@foreach (var img in Model)
+{
+    <img src="@img.Url" />
+        if (WebSecurity.IsAuthenticated && Roles.IsUserInRole(WebSecurity.CurrentUserName, "admin"))
+        {
+        @Html.ActionLink("Deletar", "Deleta", new { id = @img.Id }, new { @Class = "btn - btn-danger" })
+        }
+    }

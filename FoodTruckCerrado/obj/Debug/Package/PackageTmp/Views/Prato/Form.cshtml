@@ -1,0 +1,70 @@
+﻿@model FoodTruckCerrado.Models.Prato
+
+<div class="container">
+    @using (Html.BeginForm("Form", "Prato", FormMethod.Post, new { enctype = "multipart/form-data", @class = "well form-horizontal" }))
+    {
+        <fieldset>
+            @Html.HiddenFor(p => p.FoodTruckId)
+            <!-- Form Name -->   
+            <legend>Cadastrar Prato</legend>
+
+            <!-- Text input-->
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Nome do prato:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-cutlery"></i></span>
+                        @Html.TextBoxFor(f => f.Nome, new { @class = "form-control", placeholder = "Nome do prato" })
+                        @Html.ValidationMessageFor(f => f.Nome)
+                    </div>
+                </div>
+            </div>
+            <!-- Text area -->
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Descrição:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
+                        @Html.TextAreaFor(f => f.Descricao, new { @class = "form-control", placeholder = "Descreva o prato" })
+                        @Html.ValidationMessageFor(f => f.Descricao)
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-4 control-label">Preço:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-usd"></i></span>
+                        @Html.TextBoxFor(f => f.Preco, new { @class = "form-control", placeholder = "00,00" })
+                        @Html.ValidationMessageFor(f => f.Preco)
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Imagem:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-picture"></i></span>
+                        <div id="imagem"></div>
+                        <input id="fileUpload" type="file" name="file" />
+                        <br />
+                    </div>
+                </div>
+            </div>
+
+            <!-- Button -->
+            <div class="form-group">
+                <label class="col-md-4 control-label"></label>
+                <div class="col-md-4">
+                    <button type="submit" class="btn btn-primary">Salvar <span class="glyphicon glyphicon-floppy-disk"></span></button>
+                </div>
+            </div>
+
+        </fieldset>
+    }
+</div>
+
+<script src="~/Scripts/PreviewFotos.js"></script>

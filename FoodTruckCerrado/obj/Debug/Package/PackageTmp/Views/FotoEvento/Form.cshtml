@@ -1,0 +1,39 @@
+﻿@model FoodTruckCerrado.Models.FotosEventos
+
+
+<div class="container">
+    @using (Html.BeginForm("Form", "FotoEvento", FormMethod.Post, new { enctype = "multipart/form-data", @class = "well form-horizontal" }))
+    {
+
+        @Html.HiddenFor(f => f.EventoId)
+
+        <fieldset>
+            @Html.ValidationMessage("Foto não válida")
+            <!-- Form Name -->
+            <legend>Cadastrar Foto para o Evento</legend>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Imagem:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-picture"></i></span>
+                        <div id="imagem"></div>
+                        <input id="fileUpload" type="file" name="file" />
+                        <br />
+                    </div>
+                </div>
+            </div>
+
+            <!-- Button -->
+            <div class="form-group">
+                <label class="col-md-4 control-label"></label>
+                <div class="col-md-4">
+                    <button type="submit" class="btn btn-primary">Salvar <span class="glyphicon glyphicon-floppy-disk"></span></button>
+                </div>
+            </div>
+
+        </fieldset>
+    }
+</div>
+
+<script src="~/Scripts/PreviewFotos.js"></script>

@@ -1,0 +1,38 @@
+﻿@model IList<FoodTruckCerrado.Models.FoodTruck>
+
+<section class="container">
+    <h2 class="titulo">@ViewBag.evento.Nome dia: @ViewBag.evento.Data.ToString("dd/MM/yyyy")</h2>
+
+    <div class="row">
+
+       
+        <div class="col-md-8">
+            <h4>Saiba mais sobre nosso evento</h4>
+            <p>@ViewBag.evento.Descricao</p>
+        </div>
+        <input type="hidden" id="lat" value="@ViewBag.loca.Latitude" />
+        <input type="hidden" id="long" value="@ViewBag.loca.Logitude" />
+        <input type="hidden" id="Nome" value="@ViewBag.evento.Nome" />
+        <div>
+            <div id="map">
+
+            </div>
+            <input type="button" id="rota" name="rota"/>
+        </div>
+        <div>
+            <h2 class="titulo">Food Trucks participantes</h2>
+            @foreach (var food in Model)
+            {
+                <img src="@food.FotoCapa" />
+                @Html.ActionLink(@food.Nome, "Visualiza", "FoodTruck", new { id = food.Id }, null)
+                
+            }
+        </div>
+
+
+    </div>
+</section>
+<ul class="nav nav-pills nav-stacked col-md-2">
+    <li>@Html.ActionLink("Fotos", "Index", "FotoEvento", new { idEvento = @ViewBag.evento.Id }, null)</li>
+</ul>
+<script src="~/Scripts/Mapas.js"></script>

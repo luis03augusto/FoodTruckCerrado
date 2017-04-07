@@ -1,0 +1,29 @@
+﻿@model FoodTruckCerrado.Models.LocalizacaoEvento
+
+<div class="row">
+    @using (Html.BeginForm("Form", "LocalizacaoEvento", FormMethod.Post))
+    {
+        @Html.HiddenFor(l => l.EventoId)
+
+        @Html.LabelFor(l => l.Descricao, "Descrição:")
+        @Html.TextAreaFor(l => l.Descricao, new { @class = "form-control" })
+
+
+        @Html.LabelFor(l => l.Latitude, "Latitude:")
+        @Html.TextBoxFor(l => l.Latitude, new { @id = "latitude", @class = "form-control" })
+
+
+        @Html.LabelFor(l => l.Logitude, "Longitude:")
+        @Html.TextBoxFor(l => l.Logitude, new { @id = "longitude", @class = "form-control" })
+
+
+
+        <input class="btn btn-primary" type="submit" value="Salvar" />
+    }
+
+</div>
+
+<div class="row" id="map">
+
+</div>
+<script src="~/Scripts/mapasforms.js"></script>

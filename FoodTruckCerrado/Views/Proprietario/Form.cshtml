@@ -1,0 +1,97 @@
+﻿@model FoodTruckCerrado.Models.ProprietarioModel
+
+<div class="container">
+    @using (Html.BeginForm("Form", "Proprietario", FormMethod.Post, new { @class = "well form-horizontal" }))
+    {
+        <fieldset>
+            <!-- Form Name -->
+            <legend>Login Food Truck Cerrado</legend>
+            @Html.ValidationMessage("Usuario.Ivalido")
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Nome:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                        @Html.TextBoxFor(p => p.Nome, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(p => p.Nome)
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Sobrenome:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                        @Html.TextBoxFor(p => p.Sobrenome, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(p => p.Sobrenome)
+                    </div>
+                </div>
+            </div>
+           
+            <div class="form-group">
+                <label class="col-md-4 control-label">CPF:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-credit-card"></i></span>
+                        @Html.TextBoxFor(p => p.Cpf, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(p => p.Cpf)
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Sexo:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-star-empty"></i></span>
+                       @Html.RadioButtonFor(p => p.Sexo, "Masculino")Masculino
+                       @Html.RadioButtonFor(p => p.Sexo, "Femino")Feminino
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Email:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+                        @Html.TextBoxFor(p => p.Email, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(p => p.Email)
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Senha:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+                        @Html.PasswordFor(p => p.Senha, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(p => p.Senha)
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Confimar senha:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+                        @Html.PasswordFor(p => p.ConfimarSenha, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(p => p.ConfimarSenha)
+                    </div>
+                </div>
+            </div>
+          
+            <div class="form-group">
+                <label class="col-md-4 control-label"></label>
+                <div class="col-md-4">
+                    <button type="submit" value="Autenticar" class="btn btn-primary">Salvar <span class="glyphicon glyphicon-ok"></span></button>
+                    @Html.ActionLink("Cancelar", "Index", "Home", null, new { @class = "btn btn-primary" })
+                </div>
+            </div>
+            </fieldset>
+            }
+</div>

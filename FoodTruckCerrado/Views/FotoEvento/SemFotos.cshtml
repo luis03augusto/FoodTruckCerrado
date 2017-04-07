@@ -1,0 +1,10 @@
+﻿@model FoodTruckCerrado.Models.FotosEventos
+
+<section class="container alerta-404">
+    <img src="http://tincan.co.uk/sites/default/files/banners/tc-404.jpg" />
+     <h1> Desculpe. Nem uma Foto encontrado para esse Food Truck</h1>
+@if (WebSecurity.IsAuthenticated && Roles.IsUserInRole(WebSecurity.CurrentUserName, "admin"))
+{
+    @Html.ActionLink("Add Foto", "Form", "FotoEvento", new { idEvento = Model.EventoId }, new { @class = "btn btn-primary" })
+}
+</section>

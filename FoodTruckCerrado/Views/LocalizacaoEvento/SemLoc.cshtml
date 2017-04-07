@@ -1,0 +1,9 @@
+﻿@model FoodTruckCerrado.Models.LocalizacaoEvento
+
+<section class="container alerta-404">
+
+    <img src="http://tincan.co.uk/sites/default/files/banners/tc-404.jpg" />
+    <h1> Desculpe. Nem uma localização encontrada para esse evento</h1>
+    @Html.ActionLink("Add Localização", "Form", new { id = Model.EventoId }, new { @class = "btn btn-primary" })
+
+</section>

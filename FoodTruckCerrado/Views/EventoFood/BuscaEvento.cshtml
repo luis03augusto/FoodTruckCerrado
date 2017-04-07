@@ -1,0 +1,42 @@
+﻿@model IList<FoodTruckCerrado.Models.Evento>
+<div class="row">
+    <section>
+        <h2 class="titulo">Evento Disponiveis</h2>
+
+        <p>@ViewBag.Food</p>
+
+        @foreach (var evento in Model)
+        {
+            <div class="col-sm-6 col-md-4 col-lg-3">
+                <figure class="thumbnail">
+
+                    <img class="img-circle" src="@evento.FotoCapa" alt="Foto do FoodTruck">
+
+                    <figcaption class="caption">
+                        <h3>@Html.ActionLink(evento.Nome, "Visualiza", new { id = evento.Id }, null)</h3>
+                        <p>@Html.DisplayFor(m => evento.Descricao) </p>
+                        @{
+                            var cont = 0;
+                        }
+                        @foreach (var item in ViewBag.Evento)
+                        {
+                            if (item.EventoId == evento.Id)
+                            {
+                                cont++;
+                            }
+                        }
+                        @if (cont > 0)
+                        {
+                            <p>Ja cadastrado</p>
+                            @Html.ActionLink("Deixar Evento", "SairDoEvento", "EventoFood", new { idFood = ViewBag.Food, idEvento = evento.Id }, new { @class = "btn btn-danger" })
+                        }
+                        else
+                        {
+                            @Html.ActionLink("Participar", "AddFood", "EventoFood", new { idFood = ViewBag.Food, idEvento = evento.Id }, new { @class = "btn btn-primary" })
+                        }
+                    </figcaption>
+                </figure>
+            </div>
+        }
+    </section>
+</div>

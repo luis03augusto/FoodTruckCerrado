@@ -1,0 +1,18 @@
+﻿@model FoodTruckCerrado.Models.LocalizacaoFood
+
+<section class="container alerta-404">
+    <div class="text-center">
+        <img src="http://tincan.co.uk/sites/default/files/banners/tc-404.jpg" />
+        <h1> Desculpe. Nem uma localização encontrada</h1>
+    </div>
+    @if (WebSecurity.IsAuthenticated)
+    {
+        MembershipUser mu = Membership.GetUser();
+        int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
+
+        if (propId == ViewBag.Id)
+        {
+            @Html.ActionLink("Add Localização", "Form", new { idFood = Model.FoodTruckId }, new { @class = "btn btn-primary" })
+        }
+    }
+</section>

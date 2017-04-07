@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\Package\PackageTmp" />
+  <setAcl path="D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

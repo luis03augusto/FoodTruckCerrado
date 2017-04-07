@@ -1,0 +1,33 @@
+﻿@model IList<FoodTruckCerrado.Models.FotosFood>
+@{
+    ViewBag.Title = "Index";
+}
+
+@if (WebSecurity.IsAuthenticated)
+{
+    MembershipUser mu = Membership.GetUser();
+    int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
+
+    if (propId == ViewBag.Id)
+    {
+        @Html.ActionLink("Add Foto", "Form", new { idFood = ViewBag.Foto[0].FoodTruckId }, new { @class = "btn btn-primary" })
+    }
+}
+
+@foreach (var img in Model)
+{
+    <div class="row">
+        @img.Id
+        <img src="@img.Url">
+    </div>
+    @if (WebSecurity.IsAuthenticated)
+    {
+        MembershipUser mu = Membership.GetUser();
+        int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
+
+        if (propId == ViewBag.Id)
+        {
+                  @Html.ActionLink("Deleta", "Deleta", new { idFoto = @img.Id })
+        }
+    }
+}

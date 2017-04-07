@@ -1,0 +1,121 @@
+﻿@model  FoodTruckCerrado.Models.FoodTruck
+
+<div class="container">
+    @using (Html.BeginForm("Adiciona", "FoodTruck", FormMethod.Post, new { enctype = "multipart/form-data", @class = "well form-horizontal" }))
+    {
+        <fieldset>
+            @Html.ValidationMessage("Food Truck Invalido")
+            <!-- Form Name -->
+            <legend>Cadastrar FoodTruck</legend>
+
+            <!-- Text input-->
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Nome do FoodTruck:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-cutlery"></i></span>
+                        @Html.TextBoxFor(f => f.Nome, new { @class = "form-control", placeholder = "Nome FoodTruck" })
+                        @Html.ValidationMessageFor(f => f.Nome)
+                    </div>
+                </div>
+            </div>
+            <!-- Text area -->
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Descrição:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
+                        @Html.TextAreaFor(f => f.Descricao, new { @class = "form-control", placeholder = "Descreva seu FoodTruck" })
+                        @Html.ValidationMessageFor(f => f.Descricao)
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-4 control-label">Categoria:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-list"></i></span>
+                        <select name="Categoria" class="form-control">
+                            <option value="">Seleceione uma categoria</option>
+                            <option>Pastel</option>
+                            <option>Pizza</option>
+                            <option>Hamburguer</option>
+                            <option>Crepe</option>
+                        </select>
+                        @*@Html.TextBoxFor(f => f.Categoria, new { @class = "form-control", placeholder = "Categoria" })
+                        @Html.ValidationMessageFor(f => f.Categoria)*@
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Cidade:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-home"></i></span>
+                        <select name="Cidade" class="form-control">
+                            <option value="">Seleceione uma cideda</option>
+                            <option>Brasília</option>
+                            <option>Gama</option>
+                            <option>Taguatinga</option>
+                            <option>Brazlândia</option>
+                            <option>Sobradinho</option>
+                            <option>Planaltina</option>
+                            <option>Paranoá</option>
+                            <option>Núcleo Bandeirante</option>
+                            <option>Ceilândia</option>
+                            <option>Guará</option>
+                            <option>Cruzeiro</option>
+                            <option>Samambaia</option>
+                            <option>Santa Maria</option>
+                            <option>São Sebastião</option>
+                            <option>Recanto das Emas</option>
+                            <option>Lago Sul</option>
+                            <option>Riacho Fundo I</option>
+                            <option>Lago Norte</option>
+                            <option>Candangolândia</option>
+                            <option>Águas Clara</option>
+                            <option>Riacho Fundo II</option>
+                            <option>Sudoeste/Octogonal</option>
+                            <option>Varjão</option>
+                            <option>ParkWay</option>
+                            <option>SCIA</option>
+                            <option>Sobradinho II</option>
+                            <option>Jardim Botânico</option>
+                            <option>Itapoã</option>
+                            <option>SIA</option>
+                            <option>Vicente Pires</option>
+                        </select>
+                        @*@Html.TextBoxFor(f => f.Categoria, new { @class = "form-control", placeholder = "Categoria" })
+                    @Html.ValidationMessageFor(f => f.Categoria)*@
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Imagem:</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-picture"></i></span>
+                        <div id="imagem"></div>
+                        <input id="fileUpload" type="file" name="file" />
+                        <br />
+                    </div>
+                </div>
+            </div>
+
+            <!-- Button -->
+            <div class="form-group">
+                <label class="col-md-4 control-label"></label>
+                <div class="col-md-4">
+                    <button type="submit" class="btn btn-primary">Salvar <span class="glyphicon glyphicon-floppy-disk"></span></button>
+                </div>
+            </div>
+
+        </fieldset>
+    }
+</div>
+
+    <script src="~/Scripts/PreviewFotos.js"></script>

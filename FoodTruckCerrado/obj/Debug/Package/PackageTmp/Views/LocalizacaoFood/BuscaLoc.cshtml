@@ -1,0 +1,36 @@
+﻿@model  IList<FoodTruckCerrado.Models.LocalizacaoFood>
+@{
+    ViewBag.Title = "BuscaLoc";
+}
+
+<h2 class="titulo">Agenda Food Truck</h2>
+@if (WebSecurity.IsAuthenticated)
+{
+    MembershipUser mu = Membership.GetUser();
+    int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
+   
+    if (propId == ViewBag.Id)
+    {
+        @Html.ActionLink("Add nova localização", "Form", "LocalizacaoFood", new { idFood = Model[0].FoodTruckId }, new { @class = "btn btn-primary" })
+    }
+}
+ 
+
+<table class="table-hover descicao">
+
+    <tr>
+        <th>Data:</th>
+        <th>Ddescrição:</th>
+        <th></th>
+    </tr>
+
+    @foreach (var loca in Model)
+    {
+        <tr>
+            <td>@loca.DataLocalização</td>
+            <td>@loca.Descricao</td>
+            <td>@Html.ActionLink("Localização", "Index", "LocalizacaoFood", new {id = loca.Id, idUser = ViewBag.Id }, new { @class="btn btn-primary"})</td>
+        </tr>
+    }
+
+</table>

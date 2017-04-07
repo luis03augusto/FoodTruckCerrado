@@ -1,0 +1,26 @@
+﻿@model IEnumerable<FoodTruckCerrado.Models.FoodTruck>
+
+<section class="container">
+    <!-- 1º Thumbail -->
+    <h1 class="titulo">Food Trucks.</h1>
+    <div>
+        @Html.ActionLink("Novo", "Form", null, new { @class = "btn btn-primary" })
+    </div>
+    <div class="food-truck-pai">
+        @foreach (var foodtruck in Model)
+        {
+            <figure class="thumbnail box-food-truck">
+
+                <img class="img-thumbnail img-responsive" src="@foodtruck.FotoCapa" alt="Foto do FoodTruck">
+                <figcaption>
+                    @Html.ActionLink(foodtruck.Nome, "Visualiza", new { id = foodtruck.Id })
+                </figcaption>
+                @*Rever CSS dos link abaixo*@ 
+                <ul>
+                    <li>@Html.ActionLink("Deletar", "Deleta", new { id = foodtruck.Id })</li>
+                    <li>@Html.ActionLink("Editar", "Atualizar", new { id = foodtruck.Id })</li>
+                </ul>
+            </figure>
+        }
+    </div>
+</section>

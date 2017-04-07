@@ -1,0 +1,35 @@
+﻿
+<input type="hidden" id="lat" value="@ViewBag.Loc.Latitude" />
+<input type="hidden" id="long" value="@ViewBag.Loc.Logitude" />
+<div id="map">
+
+</div>
+
+<div style="padding-top: 200px">
+    <p class="btn btn-default"> @Html.ActionLink("Deletar", "Deleta", new { id = ViewBag.Loc.Id })</p>
+    <p class="btn btn-default"> @Html.ActionLink("Editar", "Atualizar", new { id = ViewBag.Loc.Id })</p>
+</div>
+<script type="text/javascript">
+
+    var map;
+    window.onload = function initMap() {
+
+        var lati = parseFloat($("#lat").val());
+        var long = parseFloat($("#long").val());
+  map = new google.maps.Map(document.getElementById('map'), {
+      center: { lat: lati, lng: long },
+    zoom: 15
+  });
+ var ponto = new google.maps.LatLng(lati, long);
+ var marker = new google.maps.Marker({
+      position: ponto,
+      map: map,
+      title : "Aqui"
+   })
+}
+
+
+</script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwn5zpTRsVtk5PMPd6u9Zafy5KbtmJQ1g&type=navegador">
+</script>

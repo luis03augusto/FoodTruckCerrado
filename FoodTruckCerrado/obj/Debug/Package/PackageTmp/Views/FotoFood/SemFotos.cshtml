@@ -1,0 +1,16 @@
+﻿@model FoodTruckCerrado.Models.FotosFood
+
+<section class="container alerta-404">
+    <h1> Desculpe. Nem uma Foto encontrado para esse Food Truck</h1>
+    <img src="http://tincan.co.uk/sites/default/files/banners/tc-404.jpg" />
+@if (WebSecurity.IsAuthenticated)
+{
+    MembershipUser mu = Membership.GetUser();
+    int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
+
+    if (propId == ViewBag.Id)
+    {
+    @Html.ActionLink("Add Foto", "Form", new { idFood = Model.FoodTruckId }, new { @class = "btn btn-primary" })
+    }
+}
+</section>

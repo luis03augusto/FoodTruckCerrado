@@ -1,0 +1,298 @@
+﻿/*html, body{
+    height: 100%;
+}*/
+.cabecalho-mapa {
+    background: rgba(142, 138, 138, 0.78);
+    color: aliceblue;
+    text-shadow: 0.2rem 0.2rem 1rem rgba(0,0,0,0.7);
+    padding: 3px;
+    margin-bottom: 5px;
+    border-radius: 8px;
+}
+footer {
+    background-color: #333;
+    color: #FFF;
+    padding: 20px;
+}
+footer address{
+    margin-bottom: 0;
+}
+footer:last-child{
+    margin-bottom: 0;
+}
+.cabecalho-mapa h2 {
+    text-align: center;
+    background: -webkit-linear-gradient(top, rgba(68, 66, 66, 0.69), rgba(16, 13, 13, 0.86) 90%);
+    border-radius: 10px;
+    padding: 10px;
+}
+.cabecalho-mapa p {
+    text-align: justify;
+    padding: 8px;
+    margin-bottom: 0;
+}
+.cabecalho-mapa p:first-child {
+    padding-bottom: 0;
+}
+.cabecalho-mapa p:last-child {
+    padding-top: 0;
+}
+#map {
+    position: relative;
+    display: block;
+    height: 400px;
+    width: 70%;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 3px rgba(0,0,0,0.7);
+    left: 16%;
+}
+.formulario-mapa {
+    position: relative;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    /*background: url(http://st.depositphotos.com/2158511/2431/v/950/depositphotos_24318989-stock-illustration-food-seamless-pattern.jpg);*/
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color: rgba(0,0,0,0.7);
+}
+.body-content { 
+    padding-left: 15px;
+    padding-right: 15px;
+}
+section {
+    position: relative;
+    height: 100%;
+    background: rgba(16, 11, 11, 0.40);
+}
+
+.dl-horizontal dt {
+    white-space: normal;
+}
+.container {
+    height: 100%;
+}
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.prato{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+.preco {
+    background: -webkit-linear-gradient(top, rgba(68, 66, 66, 0.69), rgba(16, 13, 13, 0.86) 90%);
+    text-shadow: 0.2rem 0.2rem 1rem rgba(0,0,0,0.7);
+    border-radius: 1rem;
+    text-align: center;
+    color: white;
+    padding: 1rem;
+    font-size: 3rem;
+    width: 9rem;
+}
+.cardapio-pai .descicao-prato {
+    width: 23rem;
+    flex: 1;
+}
+
+.cardapio-pai h3 {
+    text-align: center;
+    margin-top: 1rem;
+    background: -webkit-linear-gradient(top, rgba(68, 66, 66, 0.69), rgba(16, 13, 13, 0.86) 90%);
+    text-shadow: 0.2rem 0.2rem 1rem rgba(0,0,0,0.7);
+    color: white;
+    padding: 1rem;
+}
+
+.cardapio-pai {
+    display: flex;
+    justify-content: space-around;
+}
+.btn-formulario {
+}
+
+.cardapio {
+
+}
+.food-truck-pai {
+    display: flex;
+    height: 300px;
+    margin-bottom: 40px;
+    justify-content:flex-start;
+    flex: 1;
+}
+.box-food-truck {
+    width: 320px;
+    height: 100%;
+    margin-right: 15px;
+}
+.box-food-truck a{
+    display: block;
+    font-size: 2rem;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 1rem;
+    background: -webkit-linear-gradient(top, rgba(68, 66, 66, 0.69), rgba(16, 13, 13, 0.86) 30%);
+    text-shadow: 0.2rem 0.2rem 1rem rgba(0,0,0,0.7);
+    color: aliceblue;
+    padding: 1rem;
+}
+.box-food-truck a:hover {
+    background: -webkit-linear-gradient(top, black, aliceblue 90%);
+    color: blanchedalmond;
+    font-size: 2.2rem;
+}.box-food-truck img {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 80%;
+}
+.alerta-404 h1 {
+    background: rgb(239, 240, 239);
+    display: block;
+    padding: 10px;
+    color: red;
+    text-shadow: 0.2rem 0.2rem 1rem rgba(242, 242, 242, 0.71);
+}
+.alerta-404 img {
+    margin-top: 20px;
+    border-radius: 1rem;
+}
+.titulo {
+    background: -webkit-linear-gradient(top, rgba(68, 66, 66, 0.69), rgba(16, 13, 13, 0.86) 90%);
+    border-radius: 1rem;
+    text-align: center;
+    display: block;
+    padding: 1rem;
+    color: aliceblue;
+    font-size: 2em;
+    text-shadow: 0.2rem 0.2rem 1rem rgba(0,0,0,0.7);
+    text-transform: uppercase;
+    margin-bottom: 4rem;
+}
+.imagen {
+    float: right;
+    text-align: center;
+    margin-right: 3em;
+    font-family: 'Comic Sans MS',cursive;
+    border: 1px solid black;
+    box-shadow: 5px 5px 3px rgba(0,0,0,0.7);
+    transform: rotate(-5deg);
+}
+.imagen img {
+    width: 35rem;
+    height: 28rem;
+}
+.imgCadapio {
+    background: url(http://www.carlaecia.com.br/imagens/imagem_cardapio_icon.png) 0 0;
+}
+.imgMapa {
+    background: url(http://cdn01.androidauthority.net/wp-content/uploads/2015/07/location_marker_gps_shutterstock.jpg) 0 0;
+}
+.imgEvento {
+    background: url(http://www.iconsfind.com/wp-content/uploads/2015/10/20151014_561e2d21d1f55.png) 0 0;
+}
+.imgAlbum {
+    height: 35rem;
+    display: block;
+    float: right;
+    background-color: rgba(221, 220, 220, 0.90);
+    border-radius: 1rem;
+    width: 38%;
+    margin: 3rem;
+}
+.imgAlbum h2 {
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.38), rgba(16, 13, 13, 0.86) 90%);
+    display: block;
+    font-size: 2.5rem;
+    padding: 1rem;
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 0.1rem 0.1rem 0.0rem rgba(25, 23, 23, 0.77);
+    margin-top: 0rem;
+    border-radius: 1rem 1rem 0rem 0rem;
+}
+.imgAlbum a{
+    background: url(http://www.pakembassyksa.com/Images/a_Imagegallery.png)0 0;
+    width: 25rem;
+    height: 25rem;
+    margin-left: 6rem;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    text-indent: -99999px;
+    background-color:aliceblue;
+    background-size: cover;
+    border-radius: 0.5rem;
+}
+.imgAlbum a:hover {
+    box-shadow: 6px 6px 4px rgba(0,0,0,0.7);
+    border: 2px solid black;
+    width: 26rem;
+    height: 26rem;
+    transition: 1s;
+} 
+.imagensLink a {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 13em;
+    padding: 1rem;
+    height: 13em;
+    margin-left: 20rem;
+    display: inline-block;
+    text-indent: -99999px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.4rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    transition: 1s;
+}
+
+.imagensLink a:hover {
+    box-shadow: 6px 6px 4px rgba(0,0,0,0.7);
+    border: 2px solid black;
+    width: 16em;
+    height: 16em;
+} 
+
+.descicao {
+        float: left;
+        width: 55%;
+        background-color: rgba(221, 220, 220, 0.90);
+        border-radius: 0.9rem;
+    }
+.descicao p{
+    padding: 2rem;
+}
+.descicao h2 {
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.38), rgba(16, 13, 13, 0.86) 90%);
+    display: block;
+    font-size:2.5rem;
+    padding: 1rem;
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 0.1rem 0.1rem 0.0rem rgba(25, 23, 23, 0.77); 
+    margin-top: 2rem;
+}
+.imagen figcaption {
+    background-color: white;
+}
+
+.descicao p{
+    font-size: 2rem;
+    text-align: justify;
+}
+.categoria {
+    font-size: 3rem;
+    float: right;
+    display: block;
+    background-color: rgba(221, 220, 220, 0.90);
+    padding: 1rem;
+    border-radius: 1rem;
+    width: 40rem;
+    margin: 3rem;
+}

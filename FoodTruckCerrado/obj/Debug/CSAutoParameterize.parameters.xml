@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="FoodTruckConnection-Web.config Connection String" description="FoodTruckConnection A Cadeia de Conexão usada em web.config pelo aplicativo para acessar o banco de dados." defaultValue="Data Source=LUISAUGUSTO-PC\SQLSERVER;Initial Catalog=FoodTruck;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Estudo\\Projeto\ Visual\ Studio\\FoodTruckCerrado\\FoodTruckCerrado\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FoodTruckConnection']/@connectionString" />
+  </parameter>
+  <parameter name="FoodTruckCerradoContext-Web.config Connection String" description="FoodTruckCerradoContext A Cadeia de Conexão usada em web.config pelo aplicativo para acessar o banco de dados." defaultValue="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|FoodTruckCerradoContext-20170207121646.mdf;Initial Catalog=FoodTruckCerradoContext-20170207121646;Integrated Security=True;MultipleActiveResultSets=True;User Instance=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Estudo\\Projeto\ Visual\ Studio\\FoodTruckCerrado\\FoodTruckCerrado\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FoodTruckCerradoContext']/@connectionString" />
+  </parameter>
+</parameters>

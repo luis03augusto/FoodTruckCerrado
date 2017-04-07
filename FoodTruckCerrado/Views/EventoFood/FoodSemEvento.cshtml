@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "FoodSemEvento";
+}
+
+<section class="container alerta-404">
+    <img src="http://tincan.co.uk/sites/default/files/banners/tc-404.jpg" />
+    <h1> Desculpe. Nem uma Evento encontrado para esse Food Truck</h1>
+    @if (WebSecurity.IsAuthenticated && Roles.IsUserInRole(WebSecurity.CurrentUserName, "admin"))
+    {
+        @Html.ActionLink("Entrar em novos eventos", "BuscaEvento", "EventoFood", new { idFood = @ViewBag.Food }, new { @class = "btn btn-primary" })
+    }
+</section>

@@ -1,0 +1,1045 @@
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.csprojResolveAssemblyReference.cache
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ApplicationInsights.config
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\csc.exe
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\vbc.exe
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.dll.config
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.pdb
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Antlr3.Runtime.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Commands.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Core.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.MicrosoftSqlServer.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.Design.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.SqlServer.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Web.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.OptionsModel.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Newtonsoft.Json.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Owin.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Remotion.Linq.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Collections.Immutable.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Interactive.Async.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Helpers.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Mvc.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Optimization.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Razor.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\WebGrease.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Commands.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Core.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.MicrosoftSqlServer.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.Design.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Web.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.OptionsModel.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Remotion.Linq.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Interactive.Async.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Helpers.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Mvc.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Optimization.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Razor.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Newtonsoft.Json.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.SqlServer.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.DataProtection.Abstractions.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Cryptography.Internal.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\AngularGoogleMaps.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.Net4.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\businesslogic.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.Mvc.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\cms.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\controls.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Examine.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ImageProcessor.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ImageProcessor.Web.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\interfaces.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\log4net.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Lucene.Net.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\MarkdownSharp.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\MySql.Data.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Semver.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\SQLCE4Umbraco.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Data.SqlServerCe.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Net.Http.Formatting.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.WebHost.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\TidyNet.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Core.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.DataLayer.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.editorControls.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.MacroEngines.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.providers.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Web.UI.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\UmbracoExamine.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\businesslogic.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.pdb
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.Mvc.pdb
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\cms.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\controls.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Examine.pdb
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.pdb
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\interfaces.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Lucene.Net.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.pdb
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\SQLCE4Umbraco.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Net.Http.Formatting.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.WebHost.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Core.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.DataLayer.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.editorControls.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.MacroEngines.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.providers.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Web.UI.xml
+C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\UmbracoExamine.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ApplicationInsights.config
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\csc.exe
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\vbc.exe
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.dll.config
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\AngularGoogleMaps.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Antlr3.Runtime.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.Net4.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\businesslogic.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.Mvc.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\cms.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\controls.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Commands.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Core.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.MicrosoftSqlServer.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.Design.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.SqlServer.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Examine.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ImageProcessor.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ImageProcessor.Web.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\interfaces.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\log4net.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Lucene.Net.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\MarkdownSharp.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Web.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.OptionsModel.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\MySql.Data.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Newtonsoft.Json.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Owin.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Remotion.Linq.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Semver.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\SQLCE4Umbraco.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Collections.Immutable.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Data.SqlServerCe.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Interactive.Async.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Net.Http.Formatting.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Helpers.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.WebHost.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Mvc.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Optimization.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Razor.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\TidyNet.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Core.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.DataLayer.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.editorControls.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.MacroEngines.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.providers.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Web.UI.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\UmbracoExamine.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\WebGrease.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.DataProtection.Abstractions.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Cryptography.Internal.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\businesslogic.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.Mvc.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\cms.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\controls.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Commands.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Core.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.MicrosoftSqlServer.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.Design.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Examine.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\interfaces.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Lucene.Net.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Web.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.OptionsModel.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Newtonsoft.Json.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Remotion.Linq.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\SQLCE4Umbraco.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Interactive.Async.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Net.Http.Formatting.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Helpers.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.WebHost.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Mvc.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Razor.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Optimization.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Core.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.DataLayer.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.editorControls.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.MacroEngines.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.providers.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Web.UI.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\UmbracoExamine.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.SqlServer.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.csprojResolveAssemblyReference.cache
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.pdb
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ApplicationInsights.config
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\csc.exe
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\System.Collections.Immutable.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\System.Reflection.Metadata.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\vbc.exe
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\VBCSCompiler.exe
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\VBCSCompiler.exe.config
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.dll.config
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.pdb
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Antlr3.Runtime.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.Net4.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\businesslogic.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.Mvc.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\cms.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\controls.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\CookComputing.XmlRpcV2.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Examine.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ICSharpCode.SharpZipLib.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ImageProcessor.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ImageProcessor.Web.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\interfaces.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\log4net.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Lucene.Net.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\MarkdownSharp.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.DependencyCollector.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Web.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.WindowsServer.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationInsights.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.OptionsModel.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Primitives.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Google.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Web.Infrastructure.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\MySql.Data.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Newtonsoft.Json.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Owin.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Semver.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\SQLCE4Umbraco.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Data.SqlServerCe.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Data.SqlServerCe.Entity.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Net.Http.Formatting.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Helpers.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.WebHost.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Mvc.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Optimization.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Razor.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Deployment.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Razor.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\TidyNet.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Core.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.DataLayer.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.editorControls.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.MacroEngines.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.providers.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Web.UI.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\UmbracoExamine.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\UrlRewritingNet.UrlRewriter.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\WebGrease.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Antlr3.Runtime.pdb
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\businesslogic.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.pdb
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.Mvc.pdb
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\cms.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\controls.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Examine.pdb
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.pdb
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\interfaces.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Lucene.Net.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.DependencyCollector.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Web.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.WindowsServer.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationInsights.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.OptionsModel.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Primitives.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.pdb
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Newtonsoft.Json.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\SQLCE4Umbraco.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Net.Http.Formatting.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Helpers.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.WebHost.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Mvc.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Razor.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Deployment.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Razor.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Optimization.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Core.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.DataLayer.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.editorControls.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.MacroEngines.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.providers.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Web.UI.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\UmbracoExamine.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Google.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.csprojResolveAssemblyReference.cache
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.pdb
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.SqlServer.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.SqlServer.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.Migrations.inicial.resources
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.csproj.GenerateResource.Cache
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.Edm.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.OData.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.Services.Client.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Spatial.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Azure.KeyVault.Core.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.Edm.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.OData.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.Services.Client.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\System.Spatial.xml
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\de\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\es\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\it\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\de\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\es\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\fr\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\it\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ja\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ko\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\ru\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hans\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\Visual Studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ApplicationInsights.config
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\csc.exe
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\vbc.exe
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.dll.config
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Antlr3.Runtime.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.Net4.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\businesslogic.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.Mvc.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\cms.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\controls.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Examine.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ImageProcessor.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ImageProcessor.Web.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\interfaces.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\log4net.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Lucene.Net.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\MarkdownSharp.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Web.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.Edm.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.OData.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\MySql.Data.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Newtonsoft.Json.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Owin.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Semver.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\SQLCE4Umbraco.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Data.SqlServerCe.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Net.Http.Formatting.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Spatial.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Helpers.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.WebHost.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Mvc.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Optimization.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Razor.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\TidyNet.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Core.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.DataLayer.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.editorControls.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.MacroEngines.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.providers.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Web.UI.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\UmbracoExamine.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\WebGrease.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.OptionsModel.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\businesslogic.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.Mvc.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\cms.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\controls.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Examine.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\interfaces.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Lucene.Net.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Web.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.Edm.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.OData.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Newtonsoft.Json.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\SQLCE4Umbraco.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Net.Http.Formatting.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Spatial.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Helpers.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.WebHost.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Mvc.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Razor.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Optimization.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Core.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.DataLayer.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.editorControls.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.MacroEngines.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.providers.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Web.UI.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\UmbracoExamine.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.OptionsModel.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\de\System.Spatial.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\es\System.Spatial.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\fr\System.Spatial.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\it\System.Spatial.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ja\System.Spatial.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ko\System.Spatial.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\ru\System.Spatial.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.csprojResolveAssemblyReference.cache
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.pdb
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Commands.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Core.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.MicrosoftSqlServer.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.Design.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Remotion.Linq.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Collections.Immutable.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Interactive.Async.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Commands.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Core.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.MicrosoftSqlServer.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.Design.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\Remotion.Linq.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\System.Interactive.Async.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.SqlServer.dll
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.xml
+C:\Users\Luis Augusto\Documents\Visual Studio 2017\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.SqlServer.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.csprojResolveAssemblyReference.cache
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\obj\Debug\FoodTruckCerrado.pdb
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ApplicationInsights.config
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\csc.exe
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\System.Collections.Immutable.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\System.Reflection.Metadata.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\vbc.exe
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\VBCSCompiler.exe
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\VBCSCompiler.exe.config
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.dll.config
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\FoodTruckCerrado.pdb
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Antlr3.Runtime.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.Net4.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\businesslogic.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.Mvc.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\cms.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\controls.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\CookComputing.XmlRpcV2.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Commands.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Core.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.MicrosoftSqlServer.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.Design.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Examine.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ICSharpCode.SharpZipLib.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ImageProcessor.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ImageProcessor.Web.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\interfaces.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\log4net.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Lucene.Net.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\MarkdownSharp.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.DependencyCollector.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Web.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.WindowsServer.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationInsights.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.Edm.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.OData.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.Services.Client.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.OptionsModel.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Primitives.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Google.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Web.Infrastructure.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\MySql.Data.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Newtonsoft.Json.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Owin.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Remotion.Linq.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Semver.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\SQLCE4Umbraco.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Collections.Immutable.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Data.SqlServerCe.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Data.SqlServerCe.Entity.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Interactive.Async.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Net.Http.Formatting.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Spatial.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Helpers.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.WebHost.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Mvc.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Optimization.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Razor.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Deployment.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Razor.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\TidyNet.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Core.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.DataLayer.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.editorControls.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.MacroEngines.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.providers.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Web.UI.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\UmbracoExamine.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\UrlRewritingNet.UrlRewriter.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\WebGrease.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Antlr3.Runtime.pdb
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\AutoMapper.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\businesslogic.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.pdb
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ClientDependency.Core.Mvc.pdb
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\cms.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\controls.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Commands.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Core.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.MicrosoftSqlServer.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\EntityFramework.Relational.Design.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Examine.pdb
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.pdb
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\HtmlAgilityPack.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\interfaces.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Lucene.Net.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.DependencyCollector.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.Web.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AI.WindowsServer.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.ApplicationInsights.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Azure.KeyVault.Core.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.Edm.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.OData.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Data.Services.Client.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.OptionsModel.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Extensions.Primitives.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.pdb
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\MiniProfiler.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Newtonsoft.Json.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Remotion.Linq.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\SQLCE4Umbraco.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Interactive.Async.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Net.Http.Formatting.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Spatial.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Helpers.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Http.WebHost.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Mvc.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Razor.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Deployment.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.WebPages.Razor.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\System.Web.Optimization.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Core.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.DataLayer.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.editorControls.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.MacroEngines.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\umbraco.providers.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Umbraco.Web.UI.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\UmbracoExamine.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Google.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\de\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\es\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\it\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\de\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\es\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\fr\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\it\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ja\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ko\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\ru\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hans\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\zh-Hant\System.Spatial.resources.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\WebMatrix.Data.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\WebMatrix.Data.xml
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\WebMatrix.WebData.dll
+D:\Estudo\Projeto Visual Studio\FoodTruckCerrado\FoodTruckCerrado\bin\WebMatrix.WebData.xml

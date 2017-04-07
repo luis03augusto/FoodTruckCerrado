@@ -1,0 +1,17 @@
+﻿@model FoodTruckCerrado.Models.Prato
+<div class="text-center">
+    <h1> Desculpe. Nem um prato encontrado no cardápio</h1>
+    <img src="http://tincan.co.uk/sites/default/files/banners/tc-404.jpg" />
+
+</div> 
+
+@if (WebSecurity.IsAuthenticated)
+{
+    MembershipUser mu = Membership.GetUser();
+    int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
+
+    if (propId == ViewBag.Id)
+    {
+       @Html.ActionLink("Add Prato", "Form", new { foodTruckId = Model.FoodTruckId }, new { @class = "btn btn-primary" })
+    }
+}

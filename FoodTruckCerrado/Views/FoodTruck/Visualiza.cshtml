@@ -1,0 +1,36 @@
+﻿@model FoodTruckCerrado.Models.FoodTruck
+
+<section class="container">
+        <h1 class="text-center titulo">@ViewBag.FoodTruck.Nome</h1>
+        <figure class="imagen">
+            <img class="text-center img-responsive img-thumbnail " src="@ViewBag.FoodTruck.FotoCapa" />
+            <figcaption>Foto do nosso Food Truck</figcaption>
+        </figure>
+   
+        <div class="descicao">
+            <h2>Do que se trata nosso Food Truck?</h2>
+            <p>@ViewBag.FoodTruck.Descricao</p>
+            <div class="imagensLink">
+                <h2>Confira nosso cardápio</h2>
+                @Html.ActionLink("Ver Cardápio", "Cardapio", "Prato", new { foodTruckId = ViewBag.FoodTruck.Id }, new { @class= "imgCadapio" })
+            </div>
+            <div class="imagensLink">
+                <h2>Agenda de Localização</h2>
+                @Html.ActionLink("Ver Localização", "BuscaLoc", "LocalizacaoFood", new { idFood = ViewBag.FoodTruck.Id }, new { @class = "imgMapa" })
+            </div>
+            <div class="imagensLink">
+                <h2>Eventos</h2>
+                @Html.ActionLink("Evento já cadastrados", "BuscarEvnetoPorFood", "EventoFood", new { idFood = ViewBag.FoodTruck.Id }, new { @class = "imgEvento" })
+            </div>
+        </div>
+    <span class="categoria">
+        Somos especialista em @ViewBag.FoodTruck.Categoria
+    </span>
+      <div class="imgAlbum">
+          <h2>Album de Fotos</h2>
+          @Html.ActionLink("Fotos", "Index", "FotoFood", new { idFood = ViewBag.FoodTruck.Id },null)
+      </div>
+
+</section>
+
+

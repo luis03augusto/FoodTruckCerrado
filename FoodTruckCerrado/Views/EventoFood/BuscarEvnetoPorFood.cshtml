@@ -1,0 +1,24 @@
+﻿@model IList<FoodTruckCerrado.Models.Evento>
+
+<section class="container">
+    <h2 class="titulo">Buscar Evneto Por FoodTruck </h2>
+@if (WebSecurity.IsAuthenticated)
+{
+    MembershipUser mu = Membership.GetUser();
+    int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
+
+    if (propId == ViewBag.Id)
+    {
+    @Html.ActionLink("Entrar em novos eventos", "BuscaEvento", "EventoFood", new { idFood = @ViewBag.Food }, new { @class = "btn btn-primary" })
+    }
+}
+    @foreach (var evento in Model)
+    {
+        <div class="row">
+            <h3> @evento.Nome</h3>
+            <p>@evento.Data </p>
+            <img src="@evento.FotoCapa" />
+        </div>
+    }
+
+</section>

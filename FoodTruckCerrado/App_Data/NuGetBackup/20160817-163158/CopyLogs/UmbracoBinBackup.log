@@ -1,0 +1,217 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: quarta-feira, 17 de agosto de 2016 16:32:00
+   Origem : C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\
+     Dest : C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\App_Data\NuGetBackup\20160817-163158\bin\
+
+    Arquivos: *.*
+	    
+  Op‡äes: *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                 174	C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\
+	  Novo Arquivo		  102912	Antlr3.Runtime.dll  0%  100%  
+	  Novo Arquivo		  431616	Antlr3.Runtime.pdb  0%   30%   60%   91%  100%  
+	  Novo Arquivo		    4152	ApplicationInsights.config  0%  100%  
+	  Novo Arquivo		  144384	AutoMapper.dll  0%   90%  100%  
+	  Novo Arquivo		   28160	AutoMapper.Net4.dll  0%  100%  
+	  Novo Arquivo		  118784	businesslogic.dll  0%  100%  
+	  Novo Arquivo		  147456	ClientDependency.Core.dll  0%   88%  100%  
+	  Novo Arquivo		   23552	ClientDependency.Core.Mvc.dll  0%  100%  
+	  Novo Arquivo		  512000	cms.dll  0%   25%   51%   76%  100%  
+	  Novo Arquivo		   52224	controls.dll  0%  100%  
+	  Novo Arquivo		  122880	CookComputing.XmlRpcV2.dll  0%  100%  
+	  Novo Arquivo		  124408	EntityFramework.Commands.dll  0%  100%  
+	  Novo Arquivo		    9581	EntityFramework.Commands.xml  0%  100%  
+	  Novo Arquivo		  563712	EntityFramework.Core.dll  0%   46%   93%  100%  
+	  Novo Arquivo		  581520	EntityFramework.Core.xml  0%   45%   90%  100%  
+	  Novo Arquivo		   4.9 m	EntityFramework.dll  0%   10%   20%   30%   40%   50%   60%   70%   80%   90%  100%  
+	  Novo Arquivo		  111616	EntityFramework.MicrosoftSqlServer.dll  0%  100%  
+	  Novo Arquivo		    5600	EntityFramework.MicrosoftSqlServer.xml  0%  100%  
+	  Novo Arquivo		  109568	EntityFramework.Relational.Design.dll  0%  100%  
+	  Novo Arquivo		    8887	EntityFramework.Relational.Design.xml  0%  100%  
+	  Novo Arquivo		  441856	EntityFramework.Relational.dll  0%   29%   59%   88%  100%  
+	  Novo Arquivo		   20751	EntityFramework.Relational.xml  0%  100%  
+	  Novo Arquivo		  621264	EntityFramework.SqlServer.dll  0%   42%   84%  100%  
+	  Novo Arquivo		  154866	EntityFramework.SqlServer.xml  0%   84%  100%  
+	  Novo Arquivo		   3.4 m	EntityFramework.xml  0%   14%   28%   43%   57%   71%   86%  100%  
+	  Novo Arquivo		   98816	Examine.dll  0%  100%  
+	  Novo Arquivo		   56832	FoodTruckCerrado.dll  0%  100%  
+	  Novo Arquivo		    5494	FoodTruckCerrado.dll.config  0%  100%  
+	  Novo Arquivo		  112128	FoodTruckCerrado.pdb  0%  100%  
+	  Novo Arquivo		  134656	HtmlAgilityPack.dll  0%   97%  100%  
+	  Novo Arquivo		  200704	ICSharpCode.SharpZipLib.dll  0%   65%  100%  
+	  Novo Arquivo		  178176	ImageProcessor.dll  0%   73%  100%  
+	  Novo Arquivo		  112128	ImageProcessor.Web.dll  0%  100%  
+	  Novo Arquivo		   24576	interfaces.dll  0%  100%  
+	  Novo Arquivo		  258048	log4net.dll  0%   50%  100%  
+	  Novo Arquivo		  786432	Lucene.Net.dll  0%   33%   66%  100%  
+	  Novo Arquivo		   54784	MarkdownSharp.dll  0%  100%  
+	  Novo Arquivo		   1.7 m	Microsoft.AI.Agent.Intercept.dll  0%   14%   28%   42%   56%   71%   85%   99%  100%  
+	  Novo Arquivo		   55552	Microsoft.AI.DependencyCollector.dll  0%  100%  
+	  Novo Arquivo		   50384	Microsoft.AI.DependencyCollector.xml  0%  100%  
+	  Novo Arquivo		   66824	Microsoft.AI.PerfCounterCollector.dll  0%  100%  
+	  Novo Arquivo		   77072	Microsoft.AI.ServerTelemetryChannel.dll  0%  100%  
+	  Novo Arquivo		   19326	Microsoft.AI.ServerTelemetryChannel.xml  0%  100%  
+	  Novo Arquivo		   51904	Microsoft.AI.Web.dll  0%  100%  
+	  Novo Arquivo		   19163	Microsoft.AI.Web.xml  0%  100%  
+	  Novo Arquivo		   36584	Microsoft.AI.WindowsServer.dll  0%  100%  
+	  Novo Arquivo		   23812	Microsoft.AI.WindowsServer.xml  0%  100%  
+	  Novo Arquivo		   11264	Microsoft.ApplicationBlocks.Data.dll  0%  100%  
+	  Novo Arquivo		  149752	Microsoft.ApplicationInsights.dll  0%   87%  100%  
+	  Novo Arquivo		  135417	Microsoft.ApplicationInsights.xml  0%   96%  100%  
+	  Novo Arquivo		   32248	Microsoft.AspNet.Authorization.dll  0%  100%  
+	  Novo Arquivo		   30200	Microsoft.AspNet.Cors.dll  0%  100%  
+	  Novo Arquivo		   40448	Microsoft.AspNet.Cryptography.Internal.dll  0%  100%  
+	  Novo Arquivo		   19456	Microsoft.AspNet.Cryptography.KeyDerivation.dll  0%  100%  
+	  Novo Arquivo		   20984	Microsoft.AspNet.DataProtection.Abstractions.dll  0%  100%  
+	  Novo Arquivo		  134144	Microsoft.AspNet.DataProtection.dll  0%   97%  100%  
+	  Novo Arquivo		   13824	Microsoft.AspNet.Diagnostics.Abstractions.dll  0%  100%  
+	  Novo Arquivo		   14328	Microsoft.AspNet.FileProviders.Abstractions.dll  0%  100%  
+	  Novo Arquivo		   24064	Microsoft.AspNet.FileProviders.Physical.dll  0%  100%  
+	  Novo Arquivo		   14848	Microsoft.AspNet.Hosting.Abstractions.dll  0%  100%  
+	  Novo Arquivo		   16384	Microsoft.AspNet.Html.Abstractions.dll  0%  100%  
+	  Novo Arquivo		   51200	Microsoft.AspNet.Http.Abstractions.dll  0%  100%  
+	  Novo Arquivo		   70656	Microsoft.AspNet.Http.dll  0%  100%  
+	  Novo Arquivo		   42496	Microsoft.AspNet.Http.Extensions.dll  0%  100%  
+	  Novo Arquivo		   25600	Microsoft.AspNet.Http.Features.dll  0%  100%  
+	  Novo Arquivo		  171672	Microsoft.AspNet.Identity.Core.dll  0%   76%  100%  
+	  Novo Arquivo		  124939	Microsoft.AspNet.Identity.Core.xml  0%  100%  
+	  Novo Arquivo		   77472	Microsoft.AspNet.Identity.EntityFramework.dll  0%  100%  
+	  Novo Arquivo		   52609	Microsoft.AspNet.Identity.EntityFramework.xml  0%  100%  
+	  Novo Arquivo		   54944	Microsoft.AspNet.Identity.Owin.dll  0%  100%  
+	  Novo Arquivo		   32939	Microsoft.AspNet.Identity.Owin.xml  0%  100%  
+	  Novo Arquivo		   44544	Microsoft.AspNet.JsonPatch.dll  0%  100%  
+	  Novo Arquivo		   24064	Microsoft.AspNet.Localization.dll  0%  100%  
+	  Novo Arquivo		   13824	Microsoft.AspNet.PageExecutionInstrumentation.Interfaces.dll  0%  100%  
+	  Novo Arquivo		  293888	Microsoft.AspNet.Razor.dll  0%   44%   89%  100%  
+	  Novo Arquivo		   77824	Microsoft.AspNet.Razor.Runtime.dll  0%  100%  
+	  Novo Arquivo		   46080	Microsoft.AspNet.WebUtilities.dll  0%  100%  
+	  Novo Arquivo		   29344	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll  0%  100%  
+	  Novo Arquivo		    1805	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml  0%  100%  
+	  Novo Arquivo		   25592	Microsoft.Dnx.Compilation.Abstractions.dll  0%  100%  
+	  Novo Arquivo		   19968	Microsoft.Extensions.Caching.Abstractions.dll  0%  100%  
+	  Novo Arquivo		   15973	Microsoft.Extensions.Caching.Abstractions.xml  0%  100%  
+	  Novo Arquivo		   28152	Microsoft.Extensions.Caching.Memory.dll  0%  100%  
+	  Novo Arquivo		    3749	Microsoft.Extensions.Caching.Memory.xml  0%  100%  
+	  Novo Arquivo		   14336	Microsoft.Extensions.Configuration.Abstractions.dll  0%  100%  
+	  Novo Arquivo		    7456	Microsoft.Extensions.Configuration.Abstractions.xml  0%  100%  
+	  Novo Arquivo		   22016	Microsoft.Extensions.Configuration.Binder.dll  0%  100%  
+	  Novo Arquivo		    2879	Microsoft.Extensions.Configuration.Binder.xml  0%  100%  
+	  Novo Arquivo		   24064	Microsoft.Extensions.Configuration.dll  0%  100%  
+	  Novo Arquivo		    6094	Microsoft.Extensions.Configuration.xml  0%  100%  
+	  Novo Arquivo		   32256	Microsoft.Extensions.DependencyInjection.Abstractions.dll  0%  100%  
+	  Novo Arquivo		   24320	Microsoft.Extensions.DependencyInjection.Abstractions.xml  0%  100%  
+	  Novo Arquivo		   35320	Microsoft.Extensions.DependencyInjection.dll  0%  100%  
+	  Novo Arquivo		    5941	Microsoft.Extensions.DependencyInjection.xml  0%  100%  
+	  Novo Arquivo		   15360	Microsoft.Extensions.Globalization.CultureInfoCache.dll  0%  100%  
+	  Novo Arquivo		   15360	Microsoft.Extensions.Localization.Abstractions.dll  0%  100%  
+	  Novo Arquivo		   30208	Microsoft.Extensions.Logging.Abstractions.dll  0%  100%  
+	  Novo Arquivo		   40610	Microsoft.Extensions.Logging.Abstractions.xml  0%  100%  
+	  Novo Arquivo		   17920	Microsoft.Extensions.Logging.dll  0%  100%  
+	  Novo Arquivo		    1077	Microsoft.Extensions.Logging.xml  0%  100%  
+	  Novo Arquivo		   15872	Microsoft.Extensions.MemoryPool.dll  0%  100%  
+	  Novo Arquivo		   20480	Microsoft.Extensions.Options.dll  0%  100%  
+	  Novo Arquivo		   20992	Microsoft.Extensions.OptionsModel.dll  0%  100%  
+	  Novo Arquivo		    2216	Microsoft.Extensions.OptionsModel.xml  0%  100%  
+	  Novo Arquivo		   23040	Microsoft.Extensions.PlatformAbstractions.dll  0%  100%  
+	  Novo Arquivo		   22528	Microsoft.Extensions.Primitives.dll  0%  100%  
+	  Novo Arquivo		    2979	Microsoft.Extensions.Primitives.xml  0%  100%  
+	  Novo Arquivo		   53760	Microsoft.Extensions.WebEncoders.Core.dll  0%  100%  
+	  Novo Arquivo		   61952	Microsoft.Net.Http.Headers.dll  0%  100%  
+	  Novo Arquivo		  101032	Microsoft.Owin.dll  0%  100%  
+	  Novo Arquivo		  133288	Microsoft.Owin.Host.SystemWeb.dll  0%   98%  100%  
+	  Novo Arquivo		   31372	Microsoft.Owin.Host.SystemWeb.xml  0%  100%  
+	  Novo Arquivo		   36520	Microsoft.Owin.Security.Cookies.dll  0%  100%  
+	  Novo Arquivo		   33265	Microsoft.Owin.Security.Cookies.xml  0%  100%  
+	  Novo Arquivo		   53416	Microsoft.Owin.Security.dll  0%  100%  
+	  Novo Arquivo		   36520	Microsoft.Owin.Security.Facebook.dll  0%  100%  
+	  Novo Arquivo		   19747	Microsoft.Owin.Security.Facebook.xml  0%  100%  
+	  Novo Arquivo		   55984	Microsoft.Owin.Security.Google.dll  0%  100%  
+	  Novo Arquivo		   36808	Microsoft.Owin.Security.Google.xml  0%  100%  
+	  Novo Arquivo		   36528	Microsoft.Owin.Security.MicrosoftAccount.dll  0%  100%  
+	  Novo Arquivo		   21149	Microsoft.Owin.Security.MicrosoftAccount.xml  0%  100%  
+	  Novo Arquivo		   77488	Microsoft.Owin.Security.OAuth.dll  0%  100%  
+	  Novo Arquivo		  111514	Microsoft.Owin.Security.OAuth.xml  0%  100%  
+	  Novo Arquivo		   44208	Microsoft.Owin.Security.Twitter.dll  0%  100%  
+	  Novo Arquivo		   21961	Microsoft.Owin.Security.Twitter.xml  0%  100%  
+	  Novo Arquivo		   30791	Microsoft.Owin.Security.xml  0%  100%  
+	  Novo Arquivo		  166973	Microsoft.Owin.xml  0%   78%  100%  
+	  Novo Arquivo		   45416	Microsoft.Web.Infrastructure.dll  0%  100%  
+	  Novo Arquivo		  396288	MiniProfiler.dll  0%   33%   66%   99%  100%  
+	  Novo Arquivo		  424448	MySql.Data.dll  0%   30%   61%   92%  100%  
+	  Novo Arquivo		  526336	Newtonsoft.Json.dll  0%   49%   99%  100%  
+	  Novo Arquivo		  523221	Newtonsoft.Json.xml  0%   25%   50%   75%  100%  
+	  Novo Arquivo		    4608	Owin.dll  0%  100%  
+	  Novo Arquivo		  180736	Remotion.Linq.dll  0%   72%  100%  
+	  Novo Arquivo		  338780	Remotion.Linq.xml  0%   38%   77%  100%  
+	  Novo Arquivo		   10240	Semver.dll  0%  100%  
+	  Novo Arquivo		   19968	SQLCE4Umbraco.dll  0%  100%  
+	  Novo Arquivo		  204544	System.Collections.Immutable.dll  0%   64%  100%  
+	  Novo Arquivo		   28928	System.ComponentModel.Primitives.dll  0%  100%  
+	  Novo Arquivo		   29968	System.ComponentModel.TypeConverter.dll  0%  100%  
+	  Novo Arquivo		  470696	System.Data.SqlServerCe.dll  0%   27%   55%   83%  100%  
+	  Novo Arquivo		  240808	System.Data.SqlServerCe.Entity.dll  0%   54%  100%  
+	  Novo Arquivo		   24336	System.Diagnostics.DiagnosticSource.dll  0%  100%  
+	  Novo Arquivo		    9729	System.Diagnostics.DiagnosticSource.xml  0%  100%  
+	  Novo Arquivo		  183024	System.Interactive.Async.dll  0%   71%  100%  
+	  Novo Arquivo		    2571	System.Interactive.Async.xml  0%  100%  
+	  Novo Arquivo		  185544	System.Net.Http.Formatting.dll  0%   70%  100%  
+	  Novo Arquivo		  139976	System.Web.Helpers.dll  0%   93%  100%  
+	  Novo Arquivo		   74850	System.Web.Helpers.xml  0%  100%  
+	  Novo Arquivo		  471240	System.Web.Http.dll  0%   27%   55%   83%  100%  
+	  Novo Arquivo		   82120	System.Web.Http.WebHost.dll  0%  100%  
+	  Novo Arquivo		  566472	System.Web.Mvc.dll  0%   46%   92%  100%  
+	  Novo Arquivo		  952428	System.Web.Mvc.xml  0%   27%   55%   82%  100%  
+	  Novo Arquivo		   70864	System.Web.Optimization.dll  0%  100%  
+	  Novo Arquivo		   50585	System.Web.Optimization.xml  0%  100%  
+	  Novo Arquivo		  272072	System.Web.Razor.dll  0%   48%   96%  100%  
+	  Novo Arquivo		  522146	System.Web.Razor.xml  0%   25%   50%   75%  100%  
+	  Novo Arquivo		   41672	System.Web.WebPages.Deployment.dll  0%  100%  
+	  Novo Arquivo		    4867	System.Web.WebPages.Deployment.xml  0%  100%  
+	  Novo Arquivo		  211656	System.Web.WebPages.dll  0%   61%  100%  
+	  Novo Arquivo		   39624	System.Web.WebPages.Razor.dll  0%  100%  
+	  Novo Arquivo		   25222	System.Web.WebPages.Razor.xml  0%  100%  
+	  Novo Arquivo		  234716	System.Web.WebPages.xml  0%   55%  100%  
+	  Novo Arquivo		  192512	TidyNet.dll  0%   68%  100%  
+	  Novo Arquivo		   2.3 m	Umbraco.Core.dll  0%   20%   41%   62%   83%  100%  
+	  Novo Arquivo		   38400	umbraco.DataLayer.dll  0%  100%  
+	  Novo Arquivo		   2.1 m	umbraco.dll  0%   23%   46%   70%   93%  100%  
+	  Novo Arquivo		  372736	umbraco.editorControls.dll  0%   35%   70%  100%  
+	  Novo Arquivo		  131584	umbraco.MacroEngines.dll  0%   99%  100%  
+	  Novo Arquivo		   38400	umbraco.providers.dll  0%  100%  
+	  Novo Arquivo		   57344	Umbraco.Web.UI.dll  0%  100%  
+	  Novo Arquivo		   59904	UmbracoExamine.dll  0%  100%  
+	  Novo Arquivo		   22528	UrlRewritingNet.UrlRewriter.dll  0%  100%  
+	  Novo Arquivo		   1.2 m	WebGrease.dll  0%   20%   41%   61%   82%  100%  
+	    Novo Dir      12	C:\Users\Luis Augusto\documents\visual studio 2015\Projects\FoodTruckCerrado\FoodTruckCerrado\bin\roslyn\
+	  Novo Arquivo		   41608	csc.exe  0%  100%  
+	  Novo Arquivo		   85192	Microsoft.Build.Tasks.CodeAnalysis.dll  0%  100%  
+	  Novo Arquivo		   3.8 m	Microsoft.CodeAnalysis.CSharp.dll  0%   13%   26%   39%   52%   65%   78%   91%  100%  
+	  Novo Arquivo		   1.6 m	Microsoft.CodeAnalysis.dll  0%   15%   30%   45%   60%   76%   91%  100%  
+	  Novo Arquivo		   4.6 m	Microsoft.CodeAnalysis.VisualBasic.dll  0%   10%   21%   32%   42%   53%   64%   74%   85%   96%  100%  
+	  Novo Arquivo		    6416	Microsoft.CSharp.Core.targets  0%  100%  
+	  Novo Arquivo		    5846	Microsoft.VisualBasic.Core.targets  0%  100%  
+	  Novo Arquivo		  204544	System.Collections.Immutable.dll  0%   64%  100%  
+	  Novo Arquivo		  262896	System.Reflection.Metadata.dll  0%   49%   99%  100%  
+	  Novo Arquivo		   41608	vbc.exe  0%  100%  
+	  Novo Arquivo		   63648	VBCSCompiler.exe  0%  100%  
+	  Novo Arquivo		     563	VBCSCompiler.exe.config  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total   Copiada  IgnoradaIncompatibilidade     FALHA    Extras
+Diret¢rios:         2         1         1         0         0         0
+ Arquivos:       186       186         0         0         0         0
+    Bytes:   44.82 m   44.82 m         0         0         0         0
+N.§ de Vezes:   0:00:01   0:00:01                       0:00:00   0:00:00
+
+
+Velocidade:            31462064 Bytes/s.
+Velocidade:            1800.273 MegaBytes/min.
+   Finalizado em: quarta-feira, 17 de agosto de 2016 16:32:01
+
