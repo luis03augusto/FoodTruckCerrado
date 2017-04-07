@@ -23,6 +23,8 @@ namespace FoodTruckCerrado.DAO
             ((SimpleMembershipProvider)Membership.Provider).DeleteAccount(email);
             ((SimpleMembershipProvider)Membership.Provider).DeleteUser(email, true);
 
+
+
         }
     }
 }
