@@ -1,20 +1,21 @@
 ﻿@model IList<FoodTruckCerrado.Models.Proprietario>
 
-<table class="table table-hover" >
-    <tr>
-    <th>Nome</th>
-    <th>Sobrenome</th>
-    <th>Email</th>
-    <th></th>
+<section>
+    <table class="table table-hover">
+        <tr>
+            <th>Nome</th>
+            <th>Sobrenome</th>
+            <th>Email</th>
+            <th></th>
 
-    @foreach (var user in Model)
-    {
-       <tr>
-            <td>@user.Nome</td>
-            <td>@user.Sobrenome</td>
-            <td>@user.Email</td>
-            <td>@Html.ActionLink("Editar", "Editar", "Proprietario", new { id = user.Id }, new { @class = "btn btn-primary" }) @Html.ActionLink("Deletar", "DeltarUser", "Proprietario", new { email = user.Email }, new { @class = "btn btn-danger" })</td>
-       </tr>
-        }
-    
-</table>
+            @foreach (var user in Model)
+            {
+            <tr>
+                <td>@user.Nome</td>
+                <td>@user.Sobrenome</td>
+                <td>@user.Email</td>
+                <td>@Html.ActionLink("Editar", "Editar", "Proprietario", new { id = user.Id }, new { @class = "btn btn-primary" }) @Html.ActionLink("Deletar", "DeltarUser", "Proprietario", new { email = user.Email }, new { @class = "btn btn-danger" })</td>
+            </tr>
+            }
+        </table>
+</section>

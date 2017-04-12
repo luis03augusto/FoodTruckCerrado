@@ -10,7 +10,6 @@
     <script async defer
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwn5zpTRsVtk5PMPd6u9Zafy5KbtmJQ1g&type=navegador">
     </script>
-
 </head>
 <body>
     <div class="navbar navbar-default navbar-fixed-top menu">
@@ -52,22 +51,18 @@
             </div>
         </div>
     </div>
-    <div class="container body-content ">
+
         @RenderBody()
-        <hr />
+        
         <footer>
             <address>
-                <strong>&copy; @DateTime.Now.Year - Food Truck Cerrado</strong><br />
-                By: Luis Augusto Trindade Curado<br />
+                <strong>&copy; @DateTime.Now.Year - Food Truck Cerrado</strong> By: Luis Augusto Trindade Curado<br />
                 Av. Salvador Coelho QD. 177 Casa 27<br />
                 Planaltina, DF<br />
                 Tel: (61) 9 9372-2033<br />
                 <a href="mailto:luisaugusto.trindadecurado@gmail.com">Luisaugusto.trindadecurado@gmail.com</a>
             </address>
         </footer>
-    </div>
-
-
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)
 </body>

@@ -48,9 +48,10 @@ namespace FoodTruckCerrado.Controllers
         }
         public ActionResult Visualiza(int id)
         {
-            FoodTruck food = dao.BuscarPorId(id);
-            ViewBag.FoodTruck = food;
-            return View();
+
+            var food = dao.BuscarPorId(id);
+            ViewBag.Fotos = dao.buscarFotos(id);
+            return View(food);
         }
         [Authorize]
         public ActionResult Atualizar(int id)

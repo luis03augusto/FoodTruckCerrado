@@ -1,36 +1,116 @@
 ﻿@model FoodTruckCerrado.Models.FoodTruck
-
-<section class="container">
-        <h1 class="text-center titulo">@ViewBag.FoodTruck.Nome</h1>
-        <figure class="imagen">
-            <img class="text-center img-responsive img-thumbnail " src="@ViewBag.FoodTruck.FotoCapa" />
-            <figcaption>Foto do nosso Food Truck</figcaption>
-        </figure>
-   
-        <div class="descicao">
-            <h2>Do que se trata nosso Food Truck?</h2>
-            <p>@ViewBag.FoodTruck.Descricao</p>
-            <div class="imagensLink">
+<section>
+    <div class="text-center titulo">
+        <h1>@Html.DisplayFor(f => f.Nome)</h1>
+    </div>
+  <div class="apresentacao-foodtruck">
+      <div class="texto-descricao-food">
+          <h2>Do que se trata nosso Food Truck?</h2>
+          <p>@Html.DisplayFor(f => f.Descricao)</p>
+      </div>
+      <img class="img-responsive imagen-food-tuck" src="@Html.DisplayFor(f => f.FotoCapa)" />
+   </div>
+    <h2 class="titulo-descubramais">Descubra mais sobre nós</h2>
+    <div class="descubra-mais-sobre-nos">
+        <div class="imagensLink">
+            <div class="descicao-descubra-mais">
                 <h2>Confira nosso cardápio</h2>
-                @Html.ActionLink("Ver Cardápio", "Cardapio", "Prato", new { foodTruckId = ViewBag.FoodTruck.Id }, new { @class= "imgCadapio" })
+                <p></p>
             </div>
-            <div class="imagensLink">
+            @Html.ActionLink("Ver Cardápio", "Cardapio", "Prato", new { foodTruckId = @Html.DisplayFor(f => f.Id) }, new { @class = "imgCadapio" })
+        </div>
+        <div class="imagensLink">
+            @Html.ActionLink("Ver Localização", "BuscaLoc", "LocalizacaoFood", new { idFood = @Html.DisplayFor(f => f.Id) }, new { @class = "imgMapa" })
+            <div class="descicao-descubra-mais">
                 <h2>Agenda de Localização</h2>
-                @Html.ActionLink("Ver Localização", "BuscaLoc", "LocalizacaoFood", new { idFood = ViewBag.FoodTruck.Id }, new { @class = "imgMapa" })
-            </div>
-            <div class="imagensLink">
-                <h2>Eventos</h2>
-                @Html.ActionLink("Evento já cadastrados", "BuscarEvnetoPorFood", "EventoFood", new { idFood = ViewBag.FoodTruck.Id }, new { @class = "imgEvento" })
+                <p></p>
             </div>
         </div>
-    <span class="categoria">
-        Somos especialista em @ViewBag.FoodTruck.Categoria
-    </span>
-      <div class="imgAlbum">
-          <h2>Album de Fotos</h2>
-          @Html.ActionLink("Fotos", "Index", "FotoFood", new { idFood = ViewBag.FoodTruck.Id },null)
-      </div>
+        <div class="imagensLink">
+            <div class="descicao-descubra-mais">
+                <h2>Eventos</h2>
+                <p></p>
+            </div>
+            @Html.ActionLink("Evento já cadastrados", "BuscarEvnetoPorFood", "EventoFood", new { idFood = @Html.DisplayFor(f => f.Id) }, new { @class = "imgEvento" })
+        </div>
+    </div>
+    <div>
+        Somos especialista em @Html.DisplayFor(f => f.Categoria)
+    </div>
+    <div>
+        <h2 class="titulo-descubramais">Fotos</h2>
+        @if (Enumerable.Count(ViewBag.Fotos) >= 3)
+        {
+            <section class="carrosel-todo">
+               
+                <div id="carousel-example-generic" class="tamanho-carrosel carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                    </ol>
 
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active imagen-carrosel">
+                            <img src="@ViewBag.Fotos[0].Url" alt="...">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="item imagen-carrosel">
+                            <img src="@ViewBag.Fotos[1].Url" alt="...">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="item imagen-carrosel">
+                            <img src="@ViewBag.Fotos[2].Url" alt="...">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Controls -->
+                    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+                <div class="link-mais-fotos">
+                    @Html.ActionLink("Veja Mais Fotos ", "Index", "FotoFood", new { idFood = @Html.DisplayFor(f => f.Id) }, null)
+                </div>
+            </section>
+        }else if (Enumerable.Count(ViewBag.Fotos) <= 2 && Enumerable.Count(ViewBag.Fotos) > 0)
+            {
+            <section class="carrosel-todo">
+                <div class="tamanho-carrosel">
+                    <div class="imagen-carrosel">
+                        <img src="@ViewBag.Fotos[0].Url" alt="...">
+                    </div>
+                </div>
+                <div class="link-mais-fotos">
+                    @Html.ActionLink("Veja Mais Fotos ", "Index", "FotoFood", new { idFood = @Html.DisplayFor(f => f.Id) }, null)
+                </div>
+            </section>
+        }
+        else
+        {
+            <section class="carrosel-todo">
+                <div class="tamanho-carrosel">
+                    <div class="imagen-carrosel">
+                        <img src="http://www.integracao875.com.br/site/fotos/16122010/zoom/00.jpg" alt="...">
+                    </div>
+                </div>
+                <div class="link-mais-fotos">
+                    @Html.ActionLink("Veja Mais Fotos ", "Index", "FotoFood", new { idFood = @Html.DisplayFor(f => f.Id) }, null)
+                </div>
+            </section>
+        }
+
+</div>
 </section>
-
 

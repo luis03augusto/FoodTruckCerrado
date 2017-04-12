@@ -20,14 +20,14 @@
         @img.Id
         <img src="@img.Url">
     </div>
-    @if (WebSecurity.IsAuthenticated)
+    if (WebSecurity.IsAuthenticated)
     {
         MembershipUser mu = Membership.GetUser();
         int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
 
         if (propId == ViewBag.Id)
         {
-                  @Html.ActionLink("Deleta", "Deleta", new { idFoto = @img.Id })
+                  @Html.ActionLink("Deletar", "Deleta", new { idFoto = @img.Id }, new { @class ="btn btn-danger"})
         }
     }
 }

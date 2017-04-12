@@ -1,48 +1,50 @@
 ﻿@model IList<FoodTruckCerrado.Models.Prato>
 
-<section class="container">
-        <h1 class="text-center titulo">Cardápio</h1>
-   
-    @if (WebSecurity.IsAuthenticated)
-    {
-        MembershipUser mu = Membership.GetUser();
-        int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
+<section class="section-cardapio">
+    <h1 class="text-center">Cardápio</h1>
+  
+    <div class="cardapio">
+      
+            @foreach (var prato in Model)
+            {
 
-        if (propId == ViewBag.Id)
-        {
-            @Html.ActionLink("Add Prato", "Form", new { foodTruckId = Model[0].FoodTruckId }, new { @class = "btn btn-primary" })
-        }
-    }
-    <div class="cardapio-pai">
-        @foreach (var prato in Model)
-        {
+                <div class="prato">
+                    <figure class="thumbnail img-thumbnail img-responsive">
 
-            <div class="prato">
-                <figure class="cardapio thumbnail img-thumbnail img-responsive">
+                        <img src="@prato.FotoPrato" alt="Foto do Prato">
 
-                    <img src="@prato.FotoPrato" alt="Foto do Prato">
-
-                    <figcaption class="caption">
-                        <h3>@Html.DisplayFor(m => prato.Nome)</h3>
-                        <p class="descicao-prato">Descrição: @Html.DisplayFor(m => prato.Descricao) </p>
-                        <p class="preco">R$:@Html.DisplayFor(m => prato.Preco)</p>
-                        @if (WebSecurity.IsAuthenticated)
-                        {
-                            MembershipUser mu = Membership.GetUser();
-                            int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
-
-                            if (propId == ViewBag.Id)
+                        <figcaption class="caption">
+                            <h3>@Html.DisplayFor(m => prato.Nome)</h3>
+                            <p><strong>Descrição:</strong> @Html.DisplayFor(m => prato.Descricao) </p>
+                            <p class="preco">R$:@Html.DisplayFor(m => prato.Preco)</p>
+                            @if (WebSecurity.IsAuthenticated)
                             {
-                                <p>
-                                    <span class="bnt btn-default">@Html.ActionLink("Editar", "Atualizar", new { id = prato.Id }, new { @class = "btn btn-primary" })</span>
-                                    <span class="bnt btn-default">@Html.ActionLink("Deletar", "Deleta", new { id = prato.Id }, new { @class = "btn btn-danger" })</span>
-                                </p>
-                            }
-                        }
-                    </figcaption>
-                </figure>
-            </div>
-        }
-    </div>
+                                MembershipUser mu = Membership.GetUser();
+                                int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
 
+                                if (propId == ViewBag.Id)
+                                {
+                                    <p class="botao-editar-deletar">
+                                        <span class="bnt btn-default">@Html.ActionLink("Editar", "Atualizar", new { id = prato.Id }, new { @class = "btn btn-primary" })</span>
+                                        <span class="bnt btn-default">@Html.ActionLink("Deletar", "Deleta", new { id = prato.Id }, new { @class = "btn btn-danger" })</span>
+                                    </p>
+                                }
+                            }
+                        </figcaption>
+                    </figure>
+                </div>
+            }
+        </div>
+@if (WebSecurity.IsAuthenticated)
+{
+    MembershipUser mu = Membership.GetUser();
+    int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
+
+    if (propId == ViewBag.Id)
+    {
+        <div class="botao-add">
+            @Html.ActionLink("Add Prato", "Form", new { foodTruckId = Model[0].FoodTruckId }, new { @class = "btn btn-primary" })
+        </div>
+    }
+}
 </section>

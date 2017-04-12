@@ -64,6 +64,7 @@ namespace FoodTruckCerrado.DAO
                 return contexto.FoodTrucks.FirstOrDefault(f => f.Id == id);
             }
         }
+
         public void Remover(FoodTruck foodTruck)
         {
             using (var contexto = new Contexto())
@@ -75,6 +76,7 @@ namespace FoodTruckCerrado.DAO
                 
             }
         }
+
         public IList<FoodTruck> Lista()
         {
             using (var contexto = new Contexto())
@@ -83,6 +85,7 @@ namespace FoodTruckCerrado.DAO
                 return food.ToList();
             }
         }
+
         public void Atualizar(FoodTruck foodTruck, HttpPostedFileBase file)
         {
             using(var contexto = new Contexto())
@@ -115,6 +118,14 @@ namespace FoodTruckCerrado.DAO
                     original.Id = foodTruck.Id;
                     contexto.SaveChanges();
                 }   
+            }
+        }
+
+        public IList<FotosFood> buscarFotos(int idFood)
+        {
+            using (var contexto = new Contexto())
+            {
+                return contexto.FotosFood.Where(f => f.FoodTruckId == idFood).ToList();
             }
         }
     }

@@ -26,7 +26,8 @@ namespace FoodTruckCerrado
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/Reset.css",
                       "~/Content/bootstrap.css",
-                      "~/Content/Site.css"
+                      "~/Content/Site.css",
+                      "~/Content/cardapio.css"
                       ));
         }
     }
