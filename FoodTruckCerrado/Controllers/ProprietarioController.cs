@@ -41,7 +41,7 @@ namespace FoodTruckCerrado.Controllers
                     WebSecurity.CreateUserAndAccount(model.Email, model.Senha,
                         new { Nome = model.Nome, Sobrenome = model.Sobrenome, Cpf = model.Cpf, Sexo = model.Sexo });
                     role.AddUsersToRoles(new[] { model.Email }, new[] { roleName });
-                    return View("Index", "Home");
+                    return RedirectToAction("Index", "Home");
 
                 }
                 catch (MembershipCreateUserException e)

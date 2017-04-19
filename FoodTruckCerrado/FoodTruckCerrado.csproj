@@ -516,7 +516,9 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\cardapio.css" />
+    <Content Include="Content\localizacao.css" />
     <Content Include="Content\Reset.css" />
+    <Content Include="Content\eventos.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -607,6 +609,9 @@
     <Content Include="Views\FoodTruck\ListarPorProp.cshtml" />
     <Content Include="Views\Proprietario\ListaTodos.cshtml" />
     <Content Include="Views\EventoFood\FoodSemEvento.cshtml" />
+    <Content Include="Views\LocalizacaoFood\Historico.cshtml" />
+    <Content Include="Views\LocalizacaoFood\Atualiza.cshtml" />
+    <Content Include="Views\LocalizacaoEvento\Atualiza.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

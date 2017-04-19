@@ -17,11 +17,11 @@ namespace FoodTruckCerrado.DAO
             }
         }
 
-        public LocalizacaoFood BuscarPorFoodTruckId(int id)
+        public IList<LocalizacaoFood> BuscarHitorico(int id)
         {
             using(var context = new Contexto())
             {
-                return context.LocalizacoesFood.FirstOrDefault(l => l.FoodTruckId == id);
+                return context.LocalizacoesFood.Where(l => l.FoodTruckId == id).OrderByDescending(l => l.DataLocalização).ToList();
             }
         }
 

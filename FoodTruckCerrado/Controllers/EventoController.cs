@@ -44,6 +44,7 @@ namespace FoodTruckCerrado.Controllers
                             };
                 ViewBag.loca = contexto.LocalizacoesEventos.FirstOrDefault(l => l.EventoId == id);
                 ViewBag.evento = contexto.Eventos.FirstOrDefault(e => e.Id == id);
+                ViewBag.Fotos = contexto.FotosEvento.Where(f => f.EventoId == id).ToList();
                 return View(query.ToList());
             }
         }
@@ -78,7 +79,7 @@ namespace FoodTruckCerrado.Controllers
         {
             var evento = dao.BuscarPorId(id);
             dao.Deletar(evento);
-            return RedirectToAction("Index");
+            return RedirectToAction("Visualiza","evento", new {idEvento = evento.Id });
         }
     }
 }

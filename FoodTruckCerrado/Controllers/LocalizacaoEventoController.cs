@@ -34,7 +34,7 @@ namespace FoodTruckCerrado.Controllers
         public ActionResult Form(LocalizacaoEvento loc)
         {
             dao.SalvarLocaliza(loc);
-            return RedirectToAction("BuscaLoc", new { idEvento = loc.EventoId });
+            return RedirectToAction("Visualiza", "Evento", new { id = loc.EventoId });
         }
 
         public ActionResult Deleta(int idEvento)
@@ -70,8 +70,13 @@ namespace FoodTruckCerrado.Controllers
         public ActionResult Atualiza(int idEvento)
         {
             var locFood = dao.BuscarPorId(idEvento);
+            return View(locFood);
+        }
+        [HttpPost]
+        public ActionResult Atualiza(LocalizacaoEvento locFood)
+        {
             dao.Atualizar(locFood);
-            return View("Index");
+            return RedirectToAction("Visualiza", "Evento", new {id = locFood.EventoId });
         }
     }
 }

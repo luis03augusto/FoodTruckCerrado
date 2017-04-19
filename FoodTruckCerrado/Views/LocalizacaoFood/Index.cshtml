@@ -1,26 +1,40 @@
 ﻿@model FoodTruckCerrado.Models.LocalizacaoFood
 
-<section class="container">
+<section class="agenda-food-truck">
 
-    <h2 class="titulo">@Model.DataLocalização</h2>
     <input type="hidden" id="lat" value="@Model.Latitude" />
     <input type="hidden" id="long" value="@Model.Logitude" />
-   
-    <div class="row" id="map">
-    </div>
-    <div>
-        @if (WebSecurity.IsAuthenticated)
-        {
-            MembershipUser mu = Membership.GetUser();
-            int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
 
-            if (propId == ViewBag.Id)
-            {
-                    @Html.ActionLink("Editar", "Atualizar", new { id = Model.Id }, new { @class = "btn btn-primary" })
-                    @Html.ActionLink("Deletar", "Deleta", new { id = Model.Id }, new { @class = "btn btn-danger" })
-            }
-        }
-        <input type="button" class="btn btn-primary" name="Rota" id="rota"/>
+    <h2 class="text-center">Localização</h2>
+
+    <div class="mapa-box-pai">
+       
+        <div class="mapa-box-descricao">
+            <p class="data">@Html.DisplayFor(l => l.DataLocalização)</p> 
+            <p class="mapa-descricao"><strong>Descrição:</strong> @Html.DisplayFor(l => l.Descricao)</p>
+            <div>
+               <p>
+                   <input type="button" class="btn btn-primary" value="Traçar rota" id="rota" />
+                   @Html.ActionLink("Voltar", "BuscaLoc", new { idFood = Model.FoodTruckId }, new { @class = "btn btn-primary" })
+                </p>
+            
+                @if (WebSecurity.IsAuthenticated)
+                {
+                    MembershipUser mu = Membership.GetUser();
+                    int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
+
+                    if (propId == ViewBag.Id)
+                    {
+                        <span>  @Html.ActionLink("Editar", "Atualiza", new { id = Model.Id }, new { @class = "btn btn-primary" })</span>
+                        <span> @Html.ActionLink("Deletar", "Deleta", new { id = Model.Id }, new { @class = "btn btn-danger" })</span>
+                    }
+                }
+            </div>
+        </div>
+        <div class="box-mapa">
+            <div id="map">
+            </div>
+        </div>
     </div>
 </section>
 <script src="~/Scripts/Mapas.js"></script>

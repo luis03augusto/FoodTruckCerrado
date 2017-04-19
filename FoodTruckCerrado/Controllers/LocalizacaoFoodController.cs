@@ -31,7 +31,6 @@ namespace FoodTruckCerrado.Controllers
             {
                 FoodTruckId = idFood
             };
-            ViewBag.Food = localiza;
             return View(localiza);
         }
         [HttpPost]
@@ -62,6 +61,13 @@ namespace FoodTruckCerrado.Controllers
                 return RedirectToAction("SemLoc",new { idFood = idFood, idUser = Id});
             }
         }
+        public ActionResult Historico(int idFood)
+        {
+            int Id = dao.IdUser(idFood);
+            ViewBag.Id = Id;
+            var historico = dao.BuscarHitorico(idFood);
+            return View(historico);
+        }
 
         public ActionResult SemLoc(int idFood, int idUser)
         {
@@ -72,12 +78,17 @@ namespace FoodTruckCerrado.Controllers
             ViewBag.Id = idFood;
             return View(loc);
         }
-
+        
         public ActionResult Atualiza(int id)
         {
             var locFood = dao.BuscarPorId(id);
-            dao.Atualizar(locFood);
-            return View("Index");
+            return View(locFood);
         } 
+        [HttpPost]
+        public ActionResult Atualiza(LocalizacaoFood loc)
+        {
+            dao.Atualizar(loc);
+            return RedirectToAction("BuscaLoc", new { idFood = loc.FoodTruckId });
+        }
     }
 }

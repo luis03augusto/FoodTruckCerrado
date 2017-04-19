@@ -1,6 +1,6 @@
 ﻿@model FoodTruckCerrado.Models.Evento
 
-<div class="container">
+<section class="formularios">
     @using (Html.BeginForm("Atualizar", "Evento", FormMethod.Post, new { enctype = "multipart/form-data", @class = "well form-horizontal" }))
     {
         <fieldset>
@@ -110,5 +110,5 @@
 
         </fieldset>
     }
-</div>
+</section>
 <script src="~/Scripts/PreviewFotos.js"></script>

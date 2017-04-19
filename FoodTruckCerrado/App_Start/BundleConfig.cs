@@ -27,7 +27,9 @@ namespace FoodTruckCerrado
                       "~/Content/Reset.css",
                       "~/Content/bootstrap.css",
                       "~/Content/Site.css",
-                      "~/Content/cardapio.css"
+                      "~/Content/cardapio.css",
+                      "~/Content/localizacao.css",
+                      "~/Content/eventos.css"
                       ));
         }
     }

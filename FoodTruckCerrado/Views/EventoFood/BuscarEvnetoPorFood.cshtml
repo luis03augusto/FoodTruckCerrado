@@ -1,7 +1,8 @@
 ﻿@model IList<FoodTruckCerrado.Models.Evento>
 
-<section class="container">
-    <h2 class="titulo">Buscar Evneto Por FoodTruck </h2>
+<section class="section-eventos">
+    <h2 class="text-center">Eventos</h2>
+
 @if (WebSecurity.IsAuthenticated)
 {
     MembershipUser mu = Membership.GetUser();
@@ -9,16 +10,26 @@
 
     if (propId == ViewBag.Id)
     {
-    @Html.ActionLink("Entrar em novos eventos", "BuscaEvento", "EventoFood", new { idFood = @ViewBag.Food }, new { @class = "btn btn-primary" })
+    @Html.ActionLink("Gerenciar Eventos", "BuscaEvento", "EventoFood", new { idFood = @ViewBag.Food }, new { @class = "btn btn-primary" })
     }
 }
-    @foreach (var evento in Model)
-    {
-        <div class="row">
-            <h3> @evento.Nome</h3>
-            <p>@evento.Data </p>
-            <img src="@evento.FotoCapa" />
-        </div>
-    }
+    <div class="box-evento-food-pai">
+        @foreach (var evento in Model)
+        {
+            <div class="evento-food">
+                <figure class="thumbnail img-thumbnail img-responsive">
 
+                        <img src="@evento.FotoCapa" />
+                  
+                    <figcaption class="food-truck-eventos-evento">
+                        <h3>
+                        @Html.ActionLink(evento.Data.Date.ToString("dd/MM/yyyy"), "Visualiza", "Evento", new { id = evento.Id }, null)
+                            -
+                        @Html.ActionLink(evento.Nome, "Visualiza", "Evento", new { id = evento.Id }, null) 
+                        </h3>
+                    </figcaption>
+                </figure>
+            </div>
+        }
+    </div>
 </section>

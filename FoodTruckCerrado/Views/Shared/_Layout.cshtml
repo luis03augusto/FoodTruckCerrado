@@ -20,34 +20,46 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                @Html.ActionLink("Food Truck Cerrado", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                <div class="manu-home">
+                    <div class="div-img-menu">
+                        @Html.ActionLink("Cerrado", "Index", "Home", new { area = "" }, new { @class = "navbar-brand img-logo-home" })
+                    </div>
+                    <div>
+                        @Html.ActionLink("Cerrado", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                    </div>
+                </div>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Food Truck", "Index", "FoodTruck")</li>
                     <li>@Html.ActionLink("Evento", "Index", "Evento")</li>
-                    <li>@Html.ActionLink("About", "About", "Home")</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    <li>@Html.ActionLink("Sobre", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contato", "Contact", "Home")</li>
                 </ul>
                 
                 <ul class="nav navbar-nav login">
 
-                        @if (WebSecurity.IsAuthenticated)
-                        {
-                            if (WebSecurity.IsAuthenticated && Roles.IsUserInRole(WebSecurity.CurrentUserName, "admin"))
-                            {
-                                <li>@Html.ActionLink("Usuários", "ListaTodos", "Proprietario")</li>
-                            }
-                            <li>@Html.ActionLink("Seus Food Truck", "ListarPorProp", "FoodTruck")</li>
-                            <li><a> Bem vindo @User.Identity.Name </a></li>
-                            <li>@Html.ActionLink("Sair", "Logout", "Login")</li>
-                        }
-                        else
-                        {
-                            <li>@Html.ActionLink("Login", "Index", "Login")</li>
-                        }
+                                        @if (WebSecurity.IsAuthenticated)
+                                        {
+                                            <li class="dropdown">
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bem vindo @User.Identity.Name !<span class="caret"></span></a>
+
+                                                <ul class="dropdown-menu">
+                                                    <li>@Html.ActionLink("Meus Food Trucks", "ListarPorProp", "FoodTruck")</li>
+                                                    @if (WebSecurity.IsAuthenticated && Roles.IsUserInRole(WebSecurity.CurrentUserName, "admin"))
+                                                    {
+                                                        <li>@Html.ActionLink("Usuários", "ListaTodos", "Proprietario")</li>
+                                                    }
+                                                </ul>
+                                                 </li>
+                                            <li>@Html.ActionLink("Sair", "Logout", "Login")</li>
+                    }
+                    else
+                    {
+                    <li> @Html.ActionLink("Login", "Index", "Login") </li>
+                    }
+
                 </ul>
-             
             </div>
         </div>
     </div>

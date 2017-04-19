@@ -1,33 +1,45 @@
 ﻿@model IList<FoodTruckCerrado.Models.FotosFood>
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Fotos";
 }
+<section class="section-cardapio">
 
-@if (WebSecurity.IsAuthenticated)
-{
-    MembershipUser mu = Membership.GetUser();
-    int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
+    <h2 class="text-center">Fotos</h2>
 
-    if (propId == ViewBag.Id)
-    {
-        @Html.ActionLink("Add Foto", "Form", new { idFood = ViewBag.Foto[0].FoodTruckId }, new { @class = "btn btn-primary" })
-    }
-}
-
-@foreach (var img in Model)
-{
-    <div class="row">
-        @img.Id
-        <img src="@img.Url">
-    </div>
-    if (WebSecurity.IsAuthenticated)
-    {
-        MembershipUser mu = Membership.GetUser();
-        int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
-
-        if (propId == ViewBag.Id)
+    <div class="botao-add">
+        @if (WebSecurity.IsAuthenticated)
         {
-                  @Html.ActionLink("Deletar", "Deleta", new { idFoto = @img.Id }, new { @class ="btn btn-danger"})
+            MembershipUser mu = Membership.GetUser();
+            int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
+
+            if (propId == ViewBag.Id)
+            {
+                @Html.ActionLink("Add Foto", "Form", new { idFood = ViewBag.Foto[0].FoodTruckId }, new { @class = "btn btn-primary" })
+            }
         }
-    }
-}
+    </div>
+    <div class="box-fotos-pai">
+        @foreach (var img in Model)
+        {
+            <div class="box-fotos">
+                <img class="img-thumbnail" src="@img.Url">
+                @if (WebSecurity.IsAuthenticated)
+                {
+                MembershipUser mu = Membership.GetUser();
+                int propId = Convert.ToInt32(mu.ProviderUserKey.ToString());
+
+                if (propId == ViewBag.Id)
+                {
+                @Html.ActionLink("Deletar", "Deleta", new { idFoto = @img.Id }, new { @class = "btn btn-danger" })
+                }
+                }
+                <div id="myModal" class="modal">
+                    <span class="close">×</span>
+                    <img class="modal-content" id="@img.Id">
+                    <div id="caption"></div>
+                </div>
+            </div>
+        }
+
+    </div>
+</section>

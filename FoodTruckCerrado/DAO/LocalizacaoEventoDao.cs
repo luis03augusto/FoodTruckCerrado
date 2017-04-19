@@ -28,7 +28,7 @@ namespace FoodTruckCerrado.DAO
         {
             using (var context = new Contexto())
             {
-                return context.LocalizacoesEventos.FirstOrDefault(f => f.Id == idEvento);
+                return context.LocalizacoesEventos.FirstOrDefault(f => f.EventoId == idEvento);
             }
         }
 
@@ -44,7 +44,7 @@ namespace FoodTruckCerrado.DAO
         {
             using (var context = new Contexto())
             {
-                var orinal = context.LocalizacoesEventos.FirstOrDefault(f => f.Id == locaEvento.Id);
+                var orinal = context.LocalizacoesEventos.FirstOrDefault(f => f.EventoId == locaEvento.EventoId);
                 if (orinal != null)
                 {
                     orinal.Descricao = locaEvento.Descricao;

@@ -1,29 +1,37 @@
 ﻿@model FoodTruckCerrado.Models.LocalizacaoEvento
 
-<div class="row">
-    @using (Html.BeginForm("Form", "LocalizacaoEvento", FormMethod.Post))
-    {
-        @Html.HiddenFor(l => l.EventoId)
+<section class="agenda-food-truck">
 
-        @Html.LabelFor(l => l.Descricao, "Descrição:")
-        @Html.TextAreaFor(l => l.Descricao, new { @class = "form-control" })
+    <h2 class="text-center">Cadastro de localização.</h2>
 
+    <div class="mapa-box-pai">
 
-        @Html.LabelFor(l => l.Latitude, "Latitude:")
-        @Html.TextBoxFor(l => l.Latitude, new { @id = "latitude", @class = "form-control" })
+        <div class="mapa-box-descricao">
+            <p>*Para cadastrar uma nova localização basta selecionar no mapa ao lado o local desejado.</p>
+            @using (Html.BeginForm("Form", "LocalizacaoEvento", FormMethod.Post))
+            {
+                @Html.HiddenFor(l => l.EventoId)
 
-
-        @Html.LabelFor(l => l.Logitude, "Longitude:")
-        @Html.TextBoxFor(l => l.Logitude, new { @id = "longitude", @class = "form-control" })
-
+                @Html.LabelFor(l => l.Descricao, "Descrição:")
+                @Html.TextAreaFor(l => l.Descricao, new { @class = "form-control" })
 
 
-        <input class="btn btn-primary" type="submit" value="Salvar" />
-    }
+                @Html.LabelFor(l => l.Latitude, "Latitude:")
+                @Html.TextBoxFor(l => l.Latitude, new { @id = "latitude", @class = "form-control" })
 
-</div>
 
-<div class="row" id="map">
+                @Html.LabelFor(l => l.Logitude, "Longitude:")
+                @Html.TextBoxFor(l => l.Logitude, new { @id = "longitude", @class = "form-control" })
 
-</div>
+                <input class="btn btn-primary" type="submit" value="Salvar" />
+            }
+
+        </div>
+
+        <div class="box-mapa">
+            <div id="map">
+            </div>
+        </div>
+    </div>
+</section>
 <script src="~/Scripts/mapasforms.js"></script>
