@@ -1,6 +1,6 @@
 ﻿@model  FoodTruckCerrado.Models.FoodTruck
 
-<div class="container">
+<section class="formularios">
     @using (Html.BeginForm("Adiciona", "FoodTruck", FormMethod.Post, new { enctype = "multipart/form-data", @class = "well form-horizontal" }))
     {
         <fieldset>
@@ -116,6 +116,6 @@
 
         </fieldset>
     }
-</div>
+</section>
 
     <script src="~/Scripts/PreviewFotos.js"></script>

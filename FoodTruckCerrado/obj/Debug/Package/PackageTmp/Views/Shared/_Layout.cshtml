@@ -10,7 +10,6 @@
     <script async defer
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwn5zpTRsVtk5PMPd6u9Zafy5KbtmJQ1g&type=navegador">
     </script>
-
 </head>
 <body>
     <div class="navbar navbar-default navbar-fixed-top menu">
@@ -21,53 +20,61 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                @Html.ActionLink("Food Truck Cerrado", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                <div class="manu-home">
+                    <div class="div-img-menu">
+                        @Html.ActionLink("Cerrado", "Index", "Home", new { area = "" }, new { @class = "navbar-brand img-logo-home" })
+                    </div>
+                    <div>
+                        @Html.ActionLink("Cerrado", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                    </div>
+                </div>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Food Truck", "Index", "FoodTruck")</li>
                     <li>@Html.ActionLink("Evento", "Index", "Evento")</li>
-                    <li>@Html.ActionLink("About", "About", "Home")</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    <li>@Html.ActionLink("Sobre", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contato", "Contact", "Home")</li>
                 </ul>
                 
                 <ul class="nav navbar-nav login">
 
-                        @if (WebSecurity.IsAuthenticated)
-                        {
-                            if (WebSecurity.IsAuthenticated && Roles.IsUserInRole(WebSecurity.CurrentUserName, "admin"))
-                            {
-                                <li>@Html.ActionLink("Usuários", "ListaTodos", "Proprietario")</li>
-                            }
-                            <li>@Html.ActionLink("Seus Food Truck", "ListarPorProp", "FoodTruck")</li>
-                            <li><a> Bem vindo @User.Identity.Name </a></li>
-                            <li>@Html.ActionLink("Sair", "Logout", "Login")</li>
-                        }
-                        else
-                        {
-                            <li>@Html.ActionLink("Login", "Index", "Login")</li>
-                        }
+                                        @if (WebSecurity.IsAuthenticated)
+                                        {
+                                            <li class="dropdown">
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bem vindo @User.Identity.Name !<span class="caret"></span></a>
+
+                                                <ul class="dropdown-menu">
+                                                    <li>@Html.ActionLink("Meus Food Trucks", "ListarPorProp", "FoodTruck")</li>
+                                                    @if (WebSecurity.IsAuthenticated && Roles.IsUserInRole(WebSecurity.CurrentUserName, "admin"))
+                                                    {
+                                                        <li>@Html.ActionLink("Usuários", "ListaTodos", "Proprietario")</li>
+                                                    }
+                                                </ul>
+                                                 </li>
+                                            <li>@Html.ActionLink("Sair", "Logout", "Login")</li>
+                    }
+                    else
+                    {
+                    <li> @Html.ActionLink("Login", "Index", "Login") </li>
+                    }
+
                 </ul>
-             
             </div>
         </div>
     </div>
-    <div class="container body-content ">
+
         @RenderBody()
-        <hr />
+        
         <footer>
             <address>
-                <strong>&copy; @DateTime.Now.Year - Food Truck Cerrado</strong><br />
-                By: Luis Augusto Trindade Curado<br />
+                <strong>&copy; @DateTime.Now.Year - Food Truck Cerrado</strong> By: Luis Augusto Trindade Curado<br />
                 Av. Salvador Coelho QD. 177 Casa 27<br />
                 Planaltina, DF<br />
                 Tel: (61) 9 9372-2033<br />
                 <a href="mailto:luisaugusto.trindadecurado@gmail.com">Luisaugusto.trindadecurado@gmail.com</a>
             </address>
         </footer>
-    </div>
-
-
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)
 </body>

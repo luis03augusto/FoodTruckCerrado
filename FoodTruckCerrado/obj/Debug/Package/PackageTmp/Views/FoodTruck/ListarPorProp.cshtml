@@ -1,25 +1,22 @@
 ﻿@model IEnumerable<FoodTruckCerrado.Models.FoodTruck>
 
-<section class="container">
+<section>
     <!-- 1º Thumbail -->
-    <h1 class="titulo">Food Trucks.</h1>
-    <div>
+    <h1 class="food-truck-titulo">Food Trucks.</h1>
+    <div class="botao-add">
         @Html.ActionLink("Novo", "Form", null, new { @class = "btn btn-primary" })
     </div>
     <div class="food-truck-pai">
         @foreach (var foodtruck in Model)
         {
-            <figure class="thumbnail box-food-truck">
+            <figure class="thumbnail img-thumbnail box-food-truck">
 
-                <img class="img-thumbnail img-responsive" src="@foodtruck.FotoCapa" alt="Foto do FoodTruck">
+                <img src="@foodtruck.FotoCapa" alt="Foto do FoodTruck">
                 <figcaption>
-                    @Html.ActionLink(foodtruck.Nome, "Visualiza", new { id = foodtruck.Id })
+                @Html.ActionLink(foodtruck.Nome, "Visualiza", new { id = foodtruck.Id }, new {@class= "titulo-box-food-truck" })
+                @Html.ActionLink("Editar", "Atualizar", new { id = foodtruck.Id }, new { @class = "btn btn-primary" })
+                @Html.ActionLink("Deletar", "Deleta", new { id = foodtruck.Id }, new {@class="btn btn-danger"})
                 </figcaption>
-                @*Rever CSS dos link abaixo*@ 
-                <ul>
-                    <li>@Html.ActionLink("Deletar", "Deleta", new { id = foodtruck.Id })</li>
-                    <li>@Html.ActionLink("Editar", "Atualizar", new { id = foodtruck.Id })</li>
-                </ul>
             </figure>
         }
     </div>

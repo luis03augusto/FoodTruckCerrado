@@ -1,0 +1,87 @@
+﻿.agenda-food-truck h2 {
+    background-color: rgb(14, 81, 154);
+    margin: 0;
+    font-family: 'Pacifico', cursive;
+    color: azure;
+    box-shadow: 5px 5px 10px rgba(9, 9, 9, 0.50);
+    padding-top: 50px;
+    padding-bottom: 80px;
+    font-size: 50px;
+    color: azure;
+    box-shadow: 5px 5px 10px rgba(9, 9, 9, 0.50);
+    text-shadow: 5px 5px 10px rgba(9, 9, 9, 0.50);
+    background-image: linear-gradient(45deg, transparent, transparent 14px, rgba(9, 9, 9, 0.39) 14px, rgba(9, 9, 9, 0.39) 15px, transparent 15px, transparent);
+    background-size: 20px 20px;
+    background-attachment: fixed;
+}
+.localizacao-box-pai {
+    position: relative;
+    width: 65%;
+    min-height: 100%;
+    left: 200px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    margin-bottom: 40px
+}
+.localizacao-box {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    background-color: white;
+    margin: 10px;
+    padding: 0px;
+    border: 1px solid;
+    transition: 1s;
+}
+.localizacao-box:hover {
+    box-shadow: 5px 5px 10px rgba(9, 9, 9, 0.50);
+}
+.localizacao-box p{
+    margin: 0;
+    font-size: 20px;
+    padding: 20px;
+}
+.localizacao-box #data {
+    background-color: royalblue;
+    color: aliceblue;
+    font-size: 25px;
+    text-shadow: 2px 2px 4px rgba(9, 9, 9, 0.39);
+    border-right: black 1px solid;
+}
+.botoes-da-localizacao {
+    position: relative;
+    width: 70%;
+    min-height: 100%;
+    left: 200px;
+    padding: 20px 20px;
+}
+.data-vermelha{
+    background: red;
+}
+.mapa-box-descricao{
+    position: relative;
+    padding: 20px;
+    width: 10%;
+    background: white;
+    display: flex;
+    flex:1;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-right: 5px;
+}
+.mapa-box-descricao .data {
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+    text-shadow: 3px 3px 5px rgba(9, 9, 9, 0.39);
+    color: rgba(33, 76, 204, 0.91);
+    border-bottom: 1px solid;
+}
+.mapa-box-descricao .mapa-descricao {
+    font-size: 20px;
+}
+.mapa-box-pai{
+    display: flex;
+    flex: 1;
+}

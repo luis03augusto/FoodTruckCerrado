@@ -1,20 +1,22 @@
 ﻿@model IList<FoodTruckCerrado.Models.Evento>
-<div class="row">
-    <section>
-        <h2 class="titulo">Evento Disponiveis</h2>
+<section class="section-eventos">
+        <h2>Eventos Disponiveis</h2>
 
-        <p>@ViewBag.Food</p>
-
+    <div class="box-evento-food-pai">
         @foreach (var evento in Model)
         {
-            <div class="col-sm-6 col-md-4 col-lg-3">
-                <figure class="thumbnail">
+            <div class="evento-food">
+                <figure class="thumbnail img-thumbnail">
 
-                    <img class="img-circle" src="@evento.FotoCapa" alt="Foto do FoodTruck">
+                    <img src="@evento.FotoCapa" alt="Foto do FoodTruck">
 
-                    <figcaption class="caption">
-                        <h3>@Html.ActionLink(evento.Nome, "Visualiza", new { id = evento.Id }, null)</h3>
-                        <p>@Html.DisplayFor(m => evento.Descricao) </p>
+                    <figcaption class="food-truck-eventos-evento">
+                        <h3>
+                            @Html.ActionLink(evento.Data.Date.ToString("dd/MM/yyyy"), "Visualiza", new { id = evento.Id }, null)
+                            -
+                            @Html.ActionLink(evento.Nome, "Visualiza", new { id = evento.Id }, null)
+                        </h3>
+                    </figcaption>
                         @{
                             var cont = 0;
                         }
@@ -27,16 +29,20 @@
                         }
                         @if (cont > 0)
                         {
-                            <p>Ja cadastrado</p>
-                            @Html.ActionLink("Deixar Evento", "SairDoEvento", "EventoFood", new { idFood = ViewBag.Food, idEvento = evento.Id }, new { @class = "btn btn-danger" })
+                            <p>
+                                Já cadastrado!
+                                @Html.ActionLink("Deixar Evento", "SairDoEvento", "EventoFood", new { idFood = ViewBag.Food, idEvento = evento.Id }, new { @class = "btn btn-danger" })
+                            </p>
                         }
                         else
                         {
-                            @Html.ActionLink("Participar", "AddFood", "EventoFood", new { idFood = ViewBag.Food, idEvento = evento.Id }, new { @class = "btn btn-primary" })
+                            <p>
+                                @Html.ActionLink("Participar", "AddFood", "EventoFood", new { idFood = ViewBag.Food, idEvento = evento.Id }, new { @class = "btn btn-primary" })
+                            </p>
                         }
-                    </figcaption>
+                    
                 </figure>
             </div>
-        }
-    </section>
-</div>
+           }
+    </div>
+</section>

@@ -1,0 +1,42 @@
+﻿@model FoodTruckCerrado.Models.LocalizacaoFood
+
+<section class="agenda-food-truck">
+
+    <h2 class="text-center">Cadastro de localização.</h2>
+
+    <div class="mapa-box-pai">
+
+        <div class="mapa-box-descricao">
+            <p>*Para cadastrar uma nova localização basta selecionar no mapa ao lado o local desejado.</p>
+            @using (Html.BeginForm("Form", "LocalizacaoFood", FormMethod.Post))
+            {
+                @Html.HiddenFor(l => l.FoodTruckId)
+
+                @Html.LabelFor(l => l.DataLocalização, "Data:")
+                @Html.TextBoxFor(l => l.DataLocalização, new {@class = "form-control" })
+
+                @Html.LabelFor(l => l.Descricao, "Descrição:")
+                @Html.TextAreaFor(l => l.Descricao, new { @class = "form-control" })
+
+                @Html.LabelFor(l => l.Latitude, "Latitude:")
+                @Html.TextBoxFor(l => l.Latitude, new { @id = "latitude", @class = "form-control" })
+
+                @Html.LabelFor(l => l.Logitude, "Longitude:")
+                @Html.TextBoxFor(l => l.Logitude, new { @id = "longitude", @class = "form-control" })
+
+
+                <br />
+           
+                @Html.ActionLink("Voltar", "BuscaLoc", new { idFood = Model.FoodTruckId }, new { @class = "btn btn-primary" })
+                <input class="btn btn-primary" type="submit" value="Salvar" />
+
+            }
+        </div>
+
+        <div class="box-mapa">
+            <div id="map">
+            </div>
+        </div>
+    </div>
+</section>
+<script src="~/Scripts/mapasforms.js"></script>

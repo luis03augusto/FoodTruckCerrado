@@ -1,24 +1,25 @@
 ﻿@model IList<FoodTruckCerrado.Models.Evento>
-<section class="container">
-    <div class=row>
+<section class="section-cardapio">
+    
+    <h2 id="titulo-evento" class="text-center">Eventos</h2>
         @if (WebSecurity.IsAuthenticated && Roles.IsUserInRole(WebSecurity.CurrentUserName, "admin"))
         {
-            <div>
+            <div class="botao-add">
                 @Html.ActionLink("Add Eventos", "Form", null, new { @class = "btn btn-primary" })
             </div>
         }
         
-
+    <div  id="eventos" class="cardapio">
         @foreach (var evento in Model)
         {
-            <div class="col-sm-6 col-md-4 col-lg-3">
-                <figure class="thumbnail">
+            <div class="prato">
+                <figure class="thumbnail img-thumbnail img-responsive">
 
-                    <img class="img-circle" src="@evento.FotoCapa" alt="Foto do FoodTruck">
+                    <img src="@evento.FotoCapa" alt="Foto do FoodTruck">
 
                     <figcaption class="caption">
-                        <h2>@Html.DisplayFor(m => evento.Data)</h2>
-                        <h3>@Html.ActionLink(evento.Nome, "Visualiza", new { id = evento.Id })</h3>
+                        <h3 id="data-evento">@Html.DisplayFor(m => evento.Data)</h3>
+                        @Html.ActionLink(evento.Nome, "Visualiza", new { id = evento.Id }, new { @id="eventos-caption" })
                         <p>@Html.DisplayFor(m => evento.Descricao) </p>
                       @if (WebSecurity.IsAuthenticated && Roles.IsUserInRole(WebSecurity.CurrentUserName, "admin"))
                       {

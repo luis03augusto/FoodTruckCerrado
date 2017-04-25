@@ -1,6 +1,6 @@
 ﻿@model  FoodTruckCerrado.Models.FotosFood
 <h2>Adiciona</h2>
-<div class="row">
+<section class="formularios">
     @using (Html.BeginForm("Adiciona", "FotosFood", FormMethod.Post, new { enctype = "multipart/form-data" }))
     {
         @Html.HiddenFor(c => c.FoodTruckId)
@@ -21,4 +21,4 @@
             </div>
         </div>
     }
-</div>
+</section>

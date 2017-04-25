@@ -1,18 +1,16 @@
 ﻿@model IEnumerable<FoodTruckCerrado.Models.FoodTruck>
-
-<section class="container">
-        <!-- 1º Thumbail -->
-    <h1 class="titulo">Food Trucks.</h1>
+<section>
+    <h1 class="food-truck-titulo">Food Trucks</h1>
     <div class="food-truck-pai">
         @foreach (var foodtruck in Model)
         {
-                <figure class="thumbnail box-food-truck">
+            <figure class="thumbnail box-food-truck">
 
-                    <img class="img-thumbnail img-responsive" src="@foodtruck.FotoCapa" alt="Foto do FoodTruck">
-                    <figcaption>
-                        @Html.ActionLink(foodtruck.Nome, "Visualiza", new { id = foodtruck.Id })
-                    </figcaption>
-                </figure>
+                <img class="img-thumbnail img-responsive" src="@foodtruck.FotoCapa" alt="Foto do FoodTruck">
+                <figcaption>
+                    @Html.ActionLink(foodtruck.Nome, "Visualiza", new { id = foodtruck.Id }, new { @class = "titulo-box-food-truck" })
+                </figcaption>
+            </figure>
         }
     </div>
 </section>

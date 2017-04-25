@@ -1,7 +1,7 @@
 ﻿@model FoodTruckCerrado.Models.FotosFood
 
 
-<div class="container">
+<section class="formularios">
     @using (Html.BeginForm("Form", "FotoFood", FormMethod.Post, new { enctype = "multipart/form-data", @class = "well form-horizontal" }))
     {
 
@@ -34,6 +34,6 @@
 
         </fieldset>
     }
-</div>
+</section>
 
 <script src="~/Scripts/PreviewFotos.js"></script>

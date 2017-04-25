@@ -1,0 +1,95 @@
+﻿.cardapio {
+    width: 70%;
+    position:relative;
+    top: -40px;
+    left: 15%;
+    display: flex;
+    flex:1;
+    flex-wrap: wrap;
+}
+.prato{
+    width: 30%;
+    margin: 1.5%;
+}
+.prato img{
+    width:100%;
+    height: 180px;
+}
+.prato h3 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0;
+    font-family: 'Pacifico', cursive;
+    color: rgb(255, 0, 0);
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+    text-shadow: 2px 2px 4px rgba(9, 9, 9, 0.28);
+}
+.prato figure {
+    height: 400px;
+    transition: 1s;
+}
+.prato figcaption{
+    height: 55%;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.prato figure:hover {
+    box-shadow: 5px 5px 10px rgba(9, 9, 9, 0.50);
+}
+.preco {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: rgb(255, 0, 0);
+    text-shadow: 2px 2px 4px rgba(9, 9, 9, 0.28);
+
+}
+.section-cardapio h1 {
+    background: rgb(255, 0, 0);
+    margin: 0;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
+    color: azure;
+    box-shadow: 5px 5px 10px rgba(9, 9, 9, 0.50);
+    text-shadow: 5px 5px 10px rgba(9, 9, 9, 0.50);
+    background-image: linear-gradient(45deg, transparent, transparent 14px, rgba(240, 255, 255, 0.52) 14px, rgba(240, 255, 255, 0.52) 15px, transparent 15px, transparent);
+    background-size: 20px 20px;
+    background-attachment: fixed;
+}
+
+.section-cardapio h2{
+    background: rgba(118, 16, 163, 0.77);
+    margin: 0;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
+    color: azure;
+    box-shadow: 5px 5px 10px rgba(9, 9, 9, 0.50);
+    text-shadow: 5px 5px 10px rgba(9, 9, 9, 0.50);
+    background-image: linear-gradient(45deg, transparent, transparent 14px, rgba(240, 255, 255, 0.52) 14px, rgba(240, 255, 255, 0.52) 15px, transparent 15px, transparent);
+    background-size: 20px 20px;
+    background-attachment: fixed;
+}
+#eventos{
+    top: 0px;
+}
+#eventos-caption {
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(128, 128, 128);
+    transition: 1s;
+    text-align: center;
+}
+    #eventos-caption:hover {
+        text-shadow: 4px 4px 5px rgba(9, 9, 9, 0.28);
+    }
+#data-evento {
+    color: rgb(128, 128, 128);
+
+}
